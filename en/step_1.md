@@ -1,11 +1,11 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+Use Scratch to create stress balls that you can squish. 
 
 ### What you will make
 
 --- no-print ---
-Add instructions for using the embedded content here.
+Click or tap on the stress balls to squish them and hear the sounds they make. Click or tap on the background to change its colours.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
@@ -20,15 +20,13 @@ Add instructions for using the embedded content here.
 ---
 title: What you will need
 ---
-### Hardware
+#### Hardware
 
-+ Describe hardware here
++ A computer capable of running Scratch 3
 
-### Software
+#### Software
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ Scratch 3 (either [online](http://rpf.io/scratchon){:target="_blank"} or [offline](http://rpf.io/scratchoff){:target="_blank"})
 
 ### Downloads
 
@@ -41,8 +39,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
++ Add code to sprites and the stage
++ Use the paint tool to add details to a sprite
++ Add graphic effects and sound to a sprite
 
 --- /collapse ---
 
