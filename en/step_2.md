@@ -53,6 +53,15 @@ Drag the Ball to the middle of the Stage.
 
 --- /task ---
 
+The ball is a bit small. 
+
+--- task ---
+Under the stage there are some sprite settings that you can change. The 'Size' starts at 100%. To make the sprite bigger, change it to 200% - this is double the size. 
+
+![screenshot](images/balls-size-200.png)
+
+--- /task ---
+
 --- task ---
 
 Give your program a name by typing into the text box at the top.

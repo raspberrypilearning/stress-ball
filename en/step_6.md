@@ -1,0 +1,13 @@
+## Challenge: Improve your stress ball
+Make your stress ball even better. 
+
+Try adding hair and other features using the brush or paint tools.
+
+![screenshot](images/balls-brush-paint.png)
+
+You can change the colour using the sliders. 
+
+Try and find a different sound that works well. 
+
+Try the fisheye effect instead of whirl. What happens if you choose negative numbers?
+
