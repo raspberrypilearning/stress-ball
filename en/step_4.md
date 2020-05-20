@@ -20,6 +20,7 @@ when this sprite clicked
 
 --- /task ---
 
+--- task ---
 Drag a `set color effect to` block underneath the `when this sprite clicked` block and make sure it 'snaps' into place: 
 
 ```blocks3
@@ -61,6 +62,7 @@ set [whirl v] effect to (0)
 
 --- /task ---
 
+--- task ---
 Click on the arrow and choose the Boing sound instead of Pop.
 
 ```blocks3
@@ -100,5 +102,5 @@ clear graphic effects
 
 --- task ---
 Click on your sprite to try it out. 
---- /task
+--- /task ---
 
