@@ -12,7 +12,7 @@ Click on the **Code** tab
 Now you are in the Code Editor.
 
 --- task ---
-Click on the Ball sprite, and then drag a `when this sprite clicked`{:class="block3events"} block, from `Events` into the code area on the right:
+Click on the Ball sprite, and then drag a `when this sprite clicked`{:class="block3events"} block, from `Events`{:class="block3events"} into the code area on the right:
 
 ```blocks3
 when this sprite clicked
@@ -62,7 +62,7 @@ set [whirl v] effect to (100)
 --- /task ---
 
 --- task ---
-Click on the arrow and choose the `Boing`{:class="block3sound"} sound instead of Pop{:class="block3sound"}.
+Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}.
 
 ```blocks3
 when this sprite clicked
@@ -97,6 +97,8 @@ when this sprite clicked
 set [whirl v] effect to (100)
 play sound [Boing v] until done
 clear graphic effects
+```
+
 --- /task ---
 
 --- task ---
