@@ -1,4 +1,4 @@
-## Improve your project
+## Challenge: Improve your project
 
 Use what you've learned to add more stress toys to your project. 
 
