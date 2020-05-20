@@ -12,7 +12,7 @@ Click on the **Code** tab
 Now you are in the Code Editor.
 
 --- task ---
-Click on the Ball sprite, and then drag a `when this sprite clicked` block, from `Events` into the code area on the right:
+Click on the Ball sprite, and then drag a `when this sprite clicked`{:class="block3events"} block, from `Events` into the code area on the right:
 
 ```blocks3
 when this sprite clicked
@@ -21,7 +21,7 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Drag a `set color effect to` block underneath the `when this sprite clicked` block and make sure it 'snaps' into place: 
+Drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure it 'snaps' into place: 
 
 ```blocks3
 when this sprite clicked
@@ -33,7 +33,7 @@ The colour of each block tells you where to find it.
 --- /task ---
 
 --- task ---
-Click on `color` and change it to `whirl`:
+Click on `color`{:class="block3looks"} and change it to `whirl`{:class="block3looks"}:
 
 ```blocks3
 when this sprite clicked
@@ -43,31 +43,30 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Click in the 0 box and change the value to 100 (lots of whirl)
+Click in the `0` box and change the value to `100` (lots of whirl)
 
 ```blocks3
 when this sprite clicked
-+set [whirl v] effect to (0)
++set [whirl v] effect to (100)
 ```
 --- /task ---
 
 --- task ---
-Add a 'play sound until done' block.
+Add a 'play sound until done'{:class="block3sound"} block.
 
 ```blocks3
 when this sprite clicked
-set [whirl v] effect to (0)
+set [whirl v] effect to (100)
 +play sound [Pop v] until done
 ```
-
 --- /task ---
 
 --- task ---
-Click on the arrow and choose the Boing sound instead of Pop.
+Click on the arrow and choose the `Boing`{:class="block3sound"} sound instead of Pop{:class="block3sound"}.
 
 ```blocks3
 when this sprite clicked
-set [whirl v] effect to (0)
+set [whirl v] effect to (100)
 +play sound [Boing v] until done
 ```
 --- /task ---
@@ -95,7 +94,7 @@ Check carefully that your code looks exactly like this:
 
 ```blocks3
 when this sprite clicked
-set [whirl v] effect to (0)
+set [whirl v] effect to (100)
 play sound [Boing v] until done
 clear graphic effects
 --- /task ---
