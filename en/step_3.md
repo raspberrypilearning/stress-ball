@@ -49,7 +49,7 @@ If you make a mistake then you can click the Undo arrow.
 Use the circle tool to draw a mouth.
 
 ![screenshot](images/balls-mouth.png)
---- /task
+--- /task ---
 
 Tip: Click on the Move (arrow) tool then you will be able to move the features you have drawn.
 
