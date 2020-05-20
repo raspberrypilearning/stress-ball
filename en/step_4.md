@@ -83,7 +83,7 @@ Now add code to return your ball to normal.
 
 ```blocks3
 when this sprite clicked
-set [whirl v] effect to (0)
+set [whirl v] effect to (100)
 play sound [Boing v] until done
 + clear graphic effects
 ```
