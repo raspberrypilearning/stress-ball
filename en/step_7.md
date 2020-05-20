@@ -7,6 +7,8 @@ Try adding hair and other features using the brush or paint tools.
 
 You can change the colour using the sliders. 
 
+![screenshot](images/balls-color-sliders.png)
+
 Try and find a different sound that works well. 
 
 Change the size that your stress ball shrinks and grows to.

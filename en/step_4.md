@@ -33,7 +33,11 @@ The colour of each block tells you where to find it.
 --- /task ---
 
 --- task ---
-Click on `color`{:class="block3looks"} and change it to `whirl`{:class="block3looks"}:
+Click on `color`{:class="block3looks"} and change it to `whirl`{:class="block3looks"}.
+
+![screenshot](images/balls-color-whirl.png)
+
+Your code should look like this:
 
 ```blocks3
 when this sprite clicked
@@ -64,6 +68,8 @@ set [whirl v] effect to (100)
 --- task ---
 Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}.
 
+![screenshot](images/balls-pop-boing.png)
+
 ```blocks3
 when this sprite clicked
 set [whirl v] effect to (100)
@@ -79,7 +85,13 @@ Click on your stress ball to see it shrink and get whirled and then play the sou
 --- /task ---
 
 --- task ---
-Now add code to return your ball to normal.
+Click on `Looks`{:class="block3looks"} and then click on `clear graphic effects`{:class="block3looks"} in the editor to remove the whirl effect. You might need to scroll down to find the block.
+
+![screenshot](images/balls-clear-graphic-effects.png)
+--- /task ---
+
+--- task ---
+Now add a `clear graphic effects`{:class="block3looks"} to the bottom of your code so that it returns to normal every time you click on the Ball. 
 
 ```blocks3
 when this sprite clicked
