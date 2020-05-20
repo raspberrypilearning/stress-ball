@@ -13,6 +13,7 @@ Click on your new ball sprite and then click on the Sounds tab.
 Click on **Choose a sound**.
 
 ![screenshot](images/balls-choose-sound.png)
+--- /task ---
 
 --- task ---
 Click on 'Wacky'.
@@ -43,3 +44,9 @@ set [whirl v] effect to (100)
 play sound [Squeaky Toy v] until done
 clear graphic effects
 ```
+--- /task ---
+
+--- task --
+Click on your stress ball to try out the new sound effect. 
+--- /task ---
+
