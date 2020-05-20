@@ -1,13 +1,10 @@
-## Challenge: Improve your stress ball
-Make your stress ball even better. 
+## Add a better sound effect
 
-Try adding hair and other features using the brush or paint tools.
+Now you're going to add a better sound effect to your stress ball. 
 
-![screenshot](images/balls-brush-paint.png)
+--- task ---
+Click on your new ball sprite and then click on the Sounds tab.
 
-You can change the colour using the sliders. 
+![screenshot](images/balls-sound-tab.png)
 
-Try and find a different sound that works well. 
-
-Try the fisheye effect instead of whirl. What happens if you choose negative numbers?
-
+--- /task ---

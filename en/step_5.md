@@ -1,10 +1,8 @@
-## Add a sound effect
+## Shrink it
 
-Now you're going to add a sound effect to your stress ball. 
+Now you're going to make your stress ball shrink as well as squish when you click on it.
 
 --- task ---
-Click on your new ball sprite and then click on the Sounds tab.
 
-![screenshot](images/balls-sound-tab.png)
 
 --- /task ---

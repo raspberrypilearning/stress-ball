@@ -1,8 +1,15 @@
-## Challenge: Add more stress toys
+## Challenge: Improve your stress ball
+Make your stress ball even better. 
 
-Can you add another stress ball that looks different?
+Try adding hair and other features using the brush or paint tools.
 
-Can you try different graphic effects for the backdrop?
+![screenshot](images/balls-brush-paint.png)
 
-You don't have to start from the ball sprite. What happens if you choose another sprite?
+You can change the colour using the sliders. 
+
+Try and find a different sound that works well. 
+
+Change the size that your stress ball shrinks and grows to.
+
+Try the fisheye effect instead of whirl. What happens if you choose negative numbers?
 

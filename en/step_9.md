@@ -1,3 +1,8 @@
-## What next?
+## Improve your project
 
-Link to next project in the series or another project that could be completed after this
+Use what you've learned to add more stress toys to your project. 
+
+You don't have to start from the Ball sprite. Try adding a different sprite to your project and see what happens when you add graphics effects to it. 
+
+Try choosing a different backdrop.
+

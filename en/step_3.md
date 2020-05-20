@@ -1,4 +1,4 @@
-## Add a face and hair
+## Add a face
 In Scratch, the picture used for a sprite is called a __costume__. You're going to add a face to your sprite to give it a more interesting costume. 
 
 --- task ---
