@@ -20,7 +20,7 @@ clear graphic effects
 --- task ---
 You want the stress ball to get smaller when you click it so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the sprite shrink.
 
-``blocks3
+```blocks3
 when this sprite clicked
 +change size by (-50)
 set [whirl v] effect to (100)
