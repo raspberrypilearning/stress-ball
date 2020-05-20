@@ -102,6 +102,6 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-Click on your sprite to try it out. 
+Click on your sprite to try it out. Try it again. And again. 
 --- /task ---
 
