@@ -1,6 +1,6 @@
 ## Add a Ball sprite
 
-In Scratch you add code to __sprites__ which are the characters and objects in your project. You're going to create a Ball sprite and turn it into a stress ball.
+In Scratch, you add code to __sprites__ which are any characters and objects in your project. You're going to create a Ball sprite and turn it into a stress ball.
 
 --- task ---
 
@@ -20,7 +20,7 @@ It looks like this:
 
 --- task ---
 
-The cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+The Cat sprite that you can see is the Scratch mascot. You don't need a cat for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
 ![screenshot](images/balls-delete-annotated.png)
 
