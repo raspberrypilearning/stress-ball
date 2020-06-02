@@ -80,7 +80,7 @@ set [whirl v] effect to (100)
 --- task ---
 Click on your stress ball to see it shrink and get whirled and then play the sound.
 
-![screenshot](images/balls-effect.png)
+![screenshot](images/balls-effect.png){:width="150px"}
 
 --- /task ---
 
