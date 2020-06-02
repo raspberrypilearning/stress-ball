@@ -13,7 +13,7 @@ Click or tap on the stress ball to squish it and hear the sounds it makes.
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![Complete project](images/balls-showcase-static.png)
 --- /print-only ---
 
 --- collapse ---
