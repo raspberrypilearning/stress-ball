@@ -1,5 +1,5 @@
 ## Add a face
-In Scratch, the picture used for a sprite is called a __costume__. You're going to add a face to your sprite to give it a more interesting costume. 
+In Scratch, the picture used for a sprite is called a __costume__. You're going to add a face to Ball sprite to make it more interesting. 
 
 --- task ---
 
@@ -16,7 +16,7 @@ The Ball sprite has five different coloured costumes. Click on the one you like 
 
 ![screenshot](images/balls-costume-colour.png)
 
-The ball sprite on the Stage will switch to the costume you have chosen.
+The ball sprite on the stage will switch to the costume you have chosen.
 --- /task ---
 
 --- task ---
