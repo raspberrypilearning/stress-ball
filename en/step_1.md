@@ -8,7 +8,7 @@ Use Scratch to create a stress ball that you can squish!
 Click or tap on the stress ball to squish it and hear the sounds it makes.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/401316899/?autostart=false" frameborder="0"></iframe>
+  <iframe src="https://scratch.mit.edu/projects/401316899/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
