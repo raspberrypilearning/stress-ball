@@ -44,10 +44,10 @@ Click on the Ball sprite to add it to your project.
 
 --- /task ---
 
-The Ball will appear on the __stage__, this is where all the action happens in your project. 
+The Ball sprite will appear on the __stage__. This is where all the action happens in your project. 
 
 --- task ---
-Drag the Ball to the middle of the Stage. 
+Drag the Ball sprite to the middle of the Stage. 
 
 ![screenshot](images/balls-stage-ball.png)
 
