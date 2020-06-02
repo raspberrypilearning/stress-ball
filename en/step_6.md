@@ -3,7 +3,7 @@
 Now you're going to add a better sound effect to your stress ball. 
 
 --- task ---
-Click on your new ball sprite and then click on the Sounds tab.
+Click on the Sounds tab.
 
 ![screenshot](images/balls-sound-tab.png)
 
@@ -51,6 +51,6 @@ set size to (200)
 --- /task ---
 
 --- task ---
-Click on your stress ball to try out the new sound effect. 
+Click on your stress ball again to try out the new sound effect. 
 --- /task ---
 
