@@ -1,6 +1,6 @@
 ## Introduction
 
-Use Scratch to create stress balls that you can squish. 
+Use Scratch to create a stress ball that you can squish!
 
 ### What you will make
 
