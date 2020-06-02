@@ -52,6 +52,6 @@ title: Additional information for educators
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
-[Here is a link to the completed Scratch project for Stress Ball] (http://rpf.io/project-name-get).
+Here is a link to the completed project [rpf.io/stress-ball-get](http://rpf.io/p/en/stress-ball-get).
 
 --- /collapse ---
