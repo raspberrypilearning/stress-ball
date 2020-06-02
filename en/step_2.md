@@ -6,7 +6,7 @@ In Scratch, you add code to __sprites__ which are any characters and objects in 
 
 Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new){:target="_blank"}.
+**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-on){:target="_blank"}.
 
 **Offline:** open a new project in the offline editor.
 
