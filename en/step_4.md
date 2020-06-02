@@ -68,7 +68,7 @@ set [whirl v] effect to (100)
 --- task ---
 Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}.
 
-![screenshot](images/balls-pop-boing.png){:width="400px"}
+![screenshot](images/balls-pop-boing.png){:width="350px"}
 
 ```blocks3
 when this sprite clicked
