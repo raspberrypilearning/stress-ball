@@ -11,7 +11,7 @@ At the moment, the stage is white and boring! Add a backdrop to it by clicking o
 
 --- task ---
 
-Scroll down until you see the 'Neon Tunnel' backdrop and then click on it. The backdrops are in alphabetical order. 
+Type in 'neon' or scroll down until you see the 'Neon Tunnel' backdrop and then click on it. The backdrops are in alphabetical order. 
 
 ![screenshot](images/balls-neon-backdrop.png)
 
