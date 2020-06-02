@@ -42,9 +42,11 @@ Your code should look like this:
 
 ```blocks3
 when this sprite clicked
+change size by (-50)
 set [whirl v] effect to (100)
 play sound [Squeaky Toy v] until done
 clear graphic effects
++set size to (200)
 ```
 --- /task ---
 
