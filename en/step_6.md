@@ -36,7 +36,7 @@ Click on the **Code** tab to return to the code editor.
 
 Click on `Boing`{:class="block3sound"} in the `play sound until done`{:class="block3sound"} block and change it to `Squeaky Toy`{:class="block3sound"}.
 
-![screenshot](images/balls-squeakytoy.png)
+![screenshot](images/balls-squeakytoy.png){:width="350px"}
 
 Your code should look like this:
 
