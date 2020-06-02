@@ -56,7 +56,7 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Add a 'play sound until done'{:class="block3sound"} block.
+Add a `play sound until done`{:class="block3sound"} block.
 
 ```blocks3
 when this sprite clicked
