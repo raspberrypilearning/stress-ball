@@ -5,7 +5,7 @@ Now you're going to make Ball sprite shrink as well as squish when you click on 
 --- task ---
 Drag a `change size by`{:class="block3looks"} block under your `when this sprite clicked`{:class="block3events"}. A space will open up for the block and it will snap into place. 
 
-![screenshot](images/balls-change-size-snap.png)
+![screenshot](images/balls-change-size-snap.png){:width="350px"}
 
 Your code should look like this:
 ```blocks3
