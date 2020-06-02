@@ -35,7 +35,7 @@ The colour of each block tells you where to find it.
 --- task ---
 Click on `color`{:class="block3looks"} and change it to `whirl`{:class="block3looks"}.
 
-![screenshot](images/balls-color-whirl.png){:width="80px"}
+![screenshot](images/balls-color-whirl.png){:width="50px"}
 
 Your code should look like this:
 
