@@ -12,7 +12,7 @@ Open a new Scratch project.
 
 If you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff){:target="_blank"}.
 
-It looks like this:
+The Scratch environment which you will open looks like this:
 
 ![screenshot](images/balls-scratch.png)
 
