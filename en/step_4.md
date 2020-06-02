@@ -87,7 +87,7 @@ Click on your stress ball to see it shrink and get whirled and then play the sou
 --- task ---
 Click on `Looks`{:class="block3looks"} and then click on `clear graphic effects`{:class="block3looks"} in the editor to remove the whirl effect. You might need to scroll down to find the block.
 
-![screenshot](images/balls-clear-graphic-effects.png)
+![screenshot](images/balls-clear-graphic-effects.png){:width="350px"}
 --- /task ---
 
 --- task ---
