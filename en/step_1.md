@@ -5,7 +5,7 @@ Use Scratch to create a stress ball that you can squish!
 ### What you will make
 
 --- no-print ---
-Click or tap on the stress balls to squish them and hear the sounds they make. Click or tap on the background to change its colours.
+Click or tap on the stress ball to squish it and hear the sounds it makes. Click or tap on the background to change its colours.
 
 <div class="scratch-preview">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
