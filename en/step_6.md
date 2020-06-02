@@ -50,7 +50,7 @@ set size to (200)
 ```
 --- /task ---
 
---- task --
+--- task ---
 Click on your stress ball to try out the new sound effect. 
 --- /task ---
 
