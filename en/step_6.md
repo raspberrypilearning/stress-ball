@@ -1,6 +1,12 @@
 ## Add a better sound effect
 
-Now you're going to add a better sound effect to your stress ball. 
+Now you're going to add a better sound effect to your stress ball.
+
+Watch this short video which shows what to do next.
+
+![screenshot](images/balls-step6.gif) 
+
+Now follow each task given below.
 
 --- task ---
 Click on the Sounds tab.
