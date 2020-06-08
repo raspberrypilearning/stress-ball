@@ -20,7 +20,15 @@ The Scratch environment which you will open looks like this:
 
 --- task ---
 
-The Cat sprite that you can see is the Scratch mascot. You don't need a cat for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+The Cat sprite that you can see is the Scratch mascot. 
+
+Watch this short video which shows what to do next.
+
+![screenshot](images/balls-step1.gif) 
+
+Now follow each task given below.
+
+You don't need a cat for this game, so get rid of it by right-clicking it and then clicking on **delete**.
 
 ![screenshot](images/balls-delete-annotated.png)
 
