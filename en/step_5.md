@@ -4,7 +4,7 @@ Now you're going to make Ball sprite shrink as well as squish when you click on 
 
 Watch this short video which shows what to do next.
 
-![screenshot](images/balls-step4.gif) 
+![screenshot](images/balls-step5.gif) 
 
 Now follow each task given below.
 
