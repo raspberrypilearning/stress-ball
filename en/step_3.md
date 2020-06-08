@@ -1,6 +1,12 @@
 ## Add a face
 In Scratch, the picture used for a sprite is called a __costume__. You're going to add a face to Ball sprite to make it more interesting. 
 
+Watch this short video which shows what to do next.
+
+![screenshot](images/balls-step3.gif) 
+
+Now follow each task given below.
+
 --- task ---
 
 Click on the **Costumes** tab
