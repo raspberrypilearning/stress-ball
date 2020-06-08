@@ -24,7 +24,7 @@ The Cat sprite that you can see is the Scratch mascot.
 
 Watch this short video which shows what to do next.
 
-![screenshot](images/balls-step1.gif) 
+![screenshot](images/balls-step2.gif) 
 
 Now follow each task given below.
 
