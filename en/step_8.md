@@ -1,9 +1,17 @@
 ## Add a backdrop
 
-Now you will add a colourful backdrop to your project. 
+Now you will add a colourful backdrop to your project.
 
 --- task ---
-At the moment, the stage is white and boring! Add a backdrop to it by clicking on **Choose a Backdrop**.
+At the moment, the stage is white and boring! 
+
+Watch this short video which shows what to do next.
+
+![screenshot](images/balls-step8.gif) 
+
+Now follow each task given below.
+
+Add a backdrop to it by clicking on **Choose a Backdrop**.
 
 ![screenshot](images/balls-backdrop.png)
 
