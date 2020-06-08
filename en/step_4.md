@@ -9,6 +9,8 @@ Click on the **Code** tab
 
 --- /task ---
 
+![screenshot](images/balls-step4.png) 
+
 Now you are in the Code Editor.
 
 --- task ---
