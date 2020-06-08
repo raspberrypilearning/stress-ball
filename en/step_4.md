@@ -7,11 +7,13 @@ Click on the **Code** tab
 
 ![screenshot](images/balls-code.png)
 
+Now you are in the Code Editor.
+
 --- /task ---
 
-![screenshot](images/balls-step4.png) 
+Watch this video which shows what to do next. Then follow each task given below.
 
-Now you are in the Code Editor.
+![screenshot](images/balls-step4.png) 
 
 --- task ---
 Click on the Ball sprite, and then drag a `when this sprite clicked`{:class="block3events"} block, from `Events`{:class="block3events"} into the code area on the right:
