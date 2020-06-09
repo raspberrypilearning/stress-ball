@@ -1,11 +1,13 @@
 ## Squish it
 Now you can add code to make the stress ball look like it's being squished when you click or tap on it. 
 
+--- no-print ---
 Watch this short video which shows what to do next.
 
 ![screenshot](images/balls-step4.gif) 
 
 Now follow each task given below.
+--- /no-print ---
 
 --- task ---
 

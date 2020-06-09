@@ -3,11 +3,13 @@ Make your stress ball even better.
 
 Try adding hair and other features using the brush or paint tools.
 
+--- no-print ---
 Watch this short video which shows what to do next.
 
 ![screenshot](images/balls-step7.gif) 
 
 Now follow each task given below.
+--- /no-print ---
 
 ![screenshot](images/balls-brush-paint.png)
 

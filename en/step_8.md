@@ -5,11 +5,13 @@ Now you will add a colourful backdrop to your project.
 --- task ---
 At the moment, the stage is white and boring! 
 
+--- no-print ---
 Watch this short video which shows what to do next.
 
 ![screenshot](images/balls-step8.gif) 
 
 Now follow each task given below.
+--- /no-print ---
 
 Add a backdrop to it by clicking on **Choose a Backdrop**.
 
