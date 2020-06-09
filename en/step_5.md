@@ -56,3 +56,5 @@ clear graphic effects
 Click on your stress ball to see if it is working correctly. 
 
 --- /task ---
+
+__Tip:__ If you are logged in to Scratch then your project will automatically save, you can also use **File** then **Save now**. If you are not logged in or working offline then remember to use **File** then **Save** when you make an important change. 

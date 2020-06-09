@@ -59,7 +59,7 @@ Use the circle tool to draw a mouth.
 ![screenshot](images/balls-mouth.png)
 --- /task ---
 
-Tip: Click on the Move (arrow) tool then you will be able to move the features you have drawn.
+__Tip:__ Click on the Move (arrow) tool then you will be able to move the features you have drawn.
 
 ![screenshot](images/balls-move.png)
 
