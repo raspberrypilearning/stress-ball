@@ -1,6 +1,6 @@
-# stress-balls
+# Stress ball
 
-![stress-balls](banner.png)
+![stress-ball](banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/stress-balls](https://projects.raspberrypi.org/en/projects/stress-balls)
 
