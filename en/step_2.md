@@ -1,6 +1,6 @@
 ## Add a Ball sprite
 
-In Scratch, you add code to __sprites__ which are any characters and objects in your project. You're going to create a Ball sprite and turn it into a stress ball.
+In Scratch, you add code to __sprites__ which are characters and objects in your project. You're going to create a Ball sprite and turn it into a stress ball.
 
 --- task ---
 

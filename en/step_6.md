@@ -31,7 +31,7 @@ Click on 'Wacky'.
 --- /task ---
 
 --- task ---
-Click on the play button for the Squeak Toy sound to hear it. 
+Click on the play button for the Squeaky Toy sound to hear it. 
 
 ![screenshot](images/balls-play-button.png)
 
