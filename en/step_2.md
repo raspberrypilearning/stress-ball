@@ -1,6 +1,6 @@
 ## Add a Ball sprite
 
-In Scratch, you add code to __sprites__ which are characters and objects in your project. You're going to create a Ball sprite and turn it into a stress ball.
+__Sprites__ are the characters and objects in your project. You're going to create a Ball sprite and turn it into a stress ball.
 
 --- task ---
 
@@ -54,7 +54,7 @@ Click on the Ball sprite to add it to your project.
 
 --- /task ---
 
-The Ball sprite will appear on the __stage__. This is where all the action happens in your project. 
+The Ball sprite will appear on the __stage__. The stage is where all the action happens in your project. 
 
 --- task ---
 Drag the Ball sprite to the middle of the Stage. 

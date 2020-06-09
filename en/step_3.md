@@ -20,7 +20,7 @@ Click on the **Costumes** tab
 Now you are in the Paint Editor.
 
 --- task ---
-The Ball sprite has five different coloured costumes. Click on the one you like best.
+The Ball sprite has five different coloured costumes. Click on the costume you like best.
 
 ![screenshot](images/balls-costume-colour.png)
 
@@ -59,7 +59,7 @@ Use the circle tool to draw a mouth.
 ![screenshot](images/balls-mouth.png)
 --- /task ---
 
-__Tip:__ Click on the Move (arrow) tool then you will be able to move the features you have drawn.
+__Tip:__ Click on the Select (arrow) tool then you can drag the features you have drawn to move them.
 
 ![screenshot](images/balls-move.png)
 
