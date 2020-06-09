@@ -18,7 +18,7 @@ Try choosing a different backdrop.
 Here's an example:
 
 <div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/395014026/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://scratch.mit.edu/projects/403409939/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 </div>
 --- /no-print ---
 
