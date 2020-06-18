@@ -22,7 +22,7 @@ title: What you will need
 ---
 #### Hardware
 
-+ A computer capable of running Scratch 3
++ A Computer or tablet capable of running Scratch
 
 #### Software
 
