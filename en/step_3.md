@@ -1,5 +1,5 @@
 ## Add a face
-In Scratch, the picture used for a sprite is called a **costume**. You're going to add a face to Ball sprite to make it more interesting. 
+In Scratch, the picture used for a sprite is called a **costume**. You're going to add a face to the Ball sprite to make it more interesting. 
 
 --- no-print ---
 Watch this short video which shows what to do next.
@@ -17,7 +17,7 @@ Click on the **costumes** tab
 
 --- /task ---
 
-Now you are in the Paint Editor.
+Now you are in the **Paint Editor**.
 
 --- task ---
 The Ball sprite has five different coloured costumes. Click on the costume you like best.
