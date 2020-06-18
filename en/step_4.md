@@ -15,12 +15,12 @@ Click on the **Code** tab
 
 ![screenshot](images/balls-code.png)
 
-Now you are in the Code Editor.
+Now you are in the **code area**.
 
 --- /task ---
 
 --- task ---
-Click on the Ball sprite, and then drag a `when this sprite clicked`{:class="block3events"} block, from `Events`{:class="block3events"} into the code area on the right:
+Click on the Ball sprite. From `Events`{:class="block3events"} drag a `when this sprite clicked`{:class="block3events"} block,  into the code area on the right:
 
 ```blocks3
 when this sprite clicked
@@ -29,14 +29,14 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure it 'snaps' into place: 
+From `Looks`{:class="block3looks"} drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure it 'snaps' into place: 
 
 ```blocks3
 when this sprite clicked
 +set [color v] effect to (0)
 ```
 
-The colour of each block tells you where to find it. 
+Notice that the colour of each block tells you where you can find it. 
 
 --- /task ---
 
@@ -55,7 +55,7 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Click in the `0` box and change the value to `100` (lots of whirl)
+Click in the `0` box and change the value to `100`. This will create lots of whirl!
 
 ```blocks3
 when this sprite clicked
@@ -86,7 +86,7 @@ set [whirl v] effect to (100)
 --- /task ---
 
 --- task ---
-Click on your stress ball to see it shrink and get whirled and then play the sound.
+Click on your stress ball to see it shrink and whirled and then play the sound.
 
 ![screenshot](images/balls-effect.png){:width="150px"}
 
@@ -125,3 +125,4 @@ clear graphic effects
 Click on your sprite to try it out. Try it again. And again. 
 --- /task ---
 
+--- save ---
