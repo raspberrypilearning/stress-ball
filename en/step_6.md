@@ -11,31 +11,31 @@ Now follow each task given below.
 --- /no-print ---
 
 --- task ---
-Click on the Sounds tab.
+Click on the **sounds** tab.
 
 ![screenshot](images/balls-sound-tab.png)
 
 --- /task ---
 
 --- task ---
-Click on **Choose a sound**.
+Click on **Choose a Sound**.
 
 ![screenshot](images/balls-choose-sound.png)
 --- /task ---
 
 --- task ---
-Click on 'Wacky'.
+Click on **Wacky**.
 
 ![screenshot](images/balls-wacky.png)
 
 --- /task ---
 
 --- task ---
-Click on the play button for the Squeaky Toy sound to hear it. 
+Click on the play button for the **Squeaky Toy** sound to hear it. 
 
 ![screenshot](images/balls-play-button.png)
 
-Then click on 'Squeaky Toy' to add the sound to the Ball sprite. Now you can use this sound in your code.
+Then click on **Squeaky Toy** to add the sound to the Ball sprite. Now you can use this sound in your code.
 
 --- /task ---
 
@@ -62,3 +62,4 @@ set size to (200)
 Click on your stress ball again to try out the new sound effect. 
 --- /task ---
 
+--- save ---
