@@ -30,7 +30,7 @@ Watch this short video which shows what to do next.
 Now follow each task given below.
 --- /no-print ---
 
-You don't need a cat for this game, so get rid of it by right-clicking it and then clicking on **delete**.
+You don't need a cat for this game, so delete it by right-clicking with your mouse and then clicking on **delete**.
 
 ![screenshot](images/balls-delete-annotated.png)
 
@@ -54,7 +54,7 @@ Click on the Ball sprite to add it to your project.
 
 --- /task ---
 
-The Ball sprite will appear on the __stage__. The stage is where all the action happens in your project. 
+The Ball sprite will appear on the **Stage**. The stage is where all the action happens in your project. 
 
 --- task ---
 Drag the Ball sprite to the middle of the Stage. 
@@ -66,7 +66,7 @@ Drag the Ball sprite to the middle of the Stage.
 The ball is a bit small. 
 
 --- task ---
-Under the stage there are some sprite settings that you can change. The 'Size' starts at 100%. To make the sprite bigger, change it to 200% - this is double the size. 
+Under the stage there are some sprite settings that you can change. The **size** starts at 100%. To make the sprite bigger, change it to 200% - this is double the size. 
 
 ![screenshot](images/balls-size-200.png)
 
@@ -85,3 +85,5 @@ If you are not online or don't have a Scratch account, you can save a copy of yo
 ![screenshot](images/balls-save.png)
 
 --- /task ---
+
+--- save ---
