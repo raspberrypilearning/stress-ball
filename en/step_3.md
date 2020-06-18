@@ -1,5 +1,5 @@
 ## Add a face
-In Scratch, the picture used for a sprite is called a __costume__. You're going to add a face to Ball sprite to make it more interesting. 
+In Scratch, the picture used for a sprite is called a **costume**. You're going to add a face to Ball sprite to make it more interesting. 
 
 --- no-print ---
 Watch this short video which shows what to do next.
@@ -11,7 +11,7 @@ Now follow each task given below.
 
 --- task ---
 
-Click on the **Costumes** tab
+Click on the **costumes** tab
 
 ![screenshot](images/balls-costumes.png)
 
@@ -24,18 +24,18 @@ The Ball sprite has five different coloured costumes. Click on the costume you l
 
 ![screenshot](images/balls-costume-colour.png)
 
-The ball sprite on the stage will switch to the costume you have chosen.
+The Ball sprite on the stage will switch to the costume you have chosen.
 --- /task ---
 
 --- task ---
-Click on the Fill colour chooser and change the Fill colour to black by dragging the Brightness all the way down to 0.
+Click on the **Fill** colour chooser and change the Fill colour to black by dragging the Brightness all the way down to 0.
 
 ![screenshot](images/balls-fill-colour.png)
 
 --- /task ---
 --- task ---
 
-Click on the Circle tool. 
+Click on the **circle** tool. 
 ![screenshot](images/balls-circle-tool.png)
 
 --- /task ---
@@ -47,7 +47,7 @@ If you're using a mouse or trackpad then hold down the left button and drag unti
 
 ![screenshot](images/balls-eyes.png)
 
-If you make a mistake then you can click the Undo arrow.
+If you make a mistake then you can click the **undo** arrow.
 
 ![screenshot](images/balls-undo.png)
 
@@ -59,7 +59,7 @@ Use the circle tool to draw a mouth.
 ![screenshot](images/balls-mouth.png)
 --- /task ---
 
-__Tip:__ Click on the Select (arrow) tool then you can drag the features you have drawn to move them.
+**Tip:** Click on the Select (arrow) tool then you can drag the features you have drawn to move them.
 
 ![screenshot](images/balls-move.png)
 
