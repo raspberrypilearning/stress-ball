@@ -39,9 +39,9 @@ title: What you will need
 title: What you will learn
 ---
 
-+ Add code to sprites and a backdrop
-+ Use the paint tool to add details to a sprite
-+ Add graphic effects and sound to a sprite
++ How to add code to sprites and a backdrop
++ How to use the paint tool to add details to a sprite
++ How to add graphic effects and sound to a sprite
 
 --- /collapse ---
 
