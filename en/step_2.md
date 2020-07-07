@@ -36,9 +36,9 @@ You don't need a cat for this game, so delete it by right-clicking with your mou
 
 --- task ---
 
-Next, click on **Choose a Sprite** to open up a list of all the Scratch sprites.
+Next, click on Choose a Sprite to open up a list of all the Scratch sprites.
 
-If you're using a tablet, tap twice on the **Choose a Sprite** cat.
+If you're using a tablet, tap twice on the Choose a Sprite cat.
 
 ![screenshot](images/balls-choose-sprite.png)
 
@@ -46,16 +46,16 @@ If you're using a tablet, tap twice on the **Choose a Sprite** cat.
 
 --- task ---
 
-Click on the Ball sprite to add it to your project.
+Click on the **Ball** sprite to add it to your project.
 
 ![screenshot](images/balls-sprite-ball.png)
 
 --- /task ---
 
-The Ball sprite will appear on the **Stage**. The stage is where all the action happens in your project. 
+The **Ball** sprite will appear on the Stage. The Stage is where all the action happens in your project. 
 
 --- task ---
-Drag the Ball sprite to the middle of the Stage. 
+Drag the **Ball** sprite to the middle of the Stage. 
 
 ![screenshot](images/balls-stage-ball.png)
 
@@ -64,7 +64,7 @@ Drag the Ball sprite to the middle of the Stage.
 The ball is a bit small. 
 
 --- task ---
-Under the stage there are some sprite settings that you can change. The **Size** starts at 100%. To make the sprite bigger, change it to 200% - this is double the size. 
+Under the stage there are some sprite settings that you can change. The size starts at 100%. To make the sprite bigger, change it to 200% - this is double the size. 
 
 ![screenshot](images/balls-size-200.png)
 
