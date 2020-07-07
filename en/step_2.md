@@ -6,9 +6,9 @@ __Sprites__ are the characters and objects in your project. You're going to crea
 
 Open a new Scratch project.
 
-If working **online**, open the [starter project](http://rpf.io/p/en/sit-stretch-on){:target="_blank"} in Scratch.
+**Online:** open a new online Scratch project at [https://scratch.mit.edu/](https://scratch.mit.edu/){:target=”_blank”}.
 
-If working **offline**, open the project [starter file](http://rpf.io/p/en/sit-stretch-get){:target="_blank"} in the Scratch offline editor. If you need to download and install Scratch, you can find it [here](https://scratch.mit.edu/download){:target="_blank"}.
+**Offline:** open a new project in the offline editor. If you need to download and install the Scratch offline editor, you can find it at [https://scratch.mit.edu/download](https://scratch.mit.edu/download){:target=”_blank”}.
 
 The Scratch environment which you will open looks like this:
 
