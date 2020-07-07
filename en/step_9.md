@@ -10,7 +10,7 @@ Watch this short video for a reminder:
 
 Now follow each task given below.
 
-You don't have to start from the Ball sprite. Try adding a different sprite to your project and see what happens when you add graphics effects to it. 
+You don't have to start from the **Ball** sprite. Try adding a different sprite to your project and see what happens when you add graphics effects to it. 
 
 Try choosing a different backdrop.
 

@@ -35,7 +35,7 @@ Click on the play button for the **Squeaky Toy** sound to hear it.
 
 ![screenshot](images/balls-play-button.png)
 
-Then click on **Squeaky Toy** to add the sound to the Ball sprite. Now you can use this sound in your code.
+Then click on **Squeaky Toy** to add the sound to the **Ball** sprite. Now you can use this sound in your code.
 
 --- /task ---
 

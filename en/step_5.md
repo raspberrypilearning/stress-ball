@@ -1,6 +1,6 @@
 ## Shrink it
 
-Now you're going to make the Ball sprite shrink as well as squish when you click on it.
+Now you're going to make the **Ball** sprite shrink as well as squish when you click on it.
 
 --- no-print ---
 Watch this short video which shows what to do next.
@@ -26,7 +26,7 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-You want the Ball sprite to get smaller when you click it so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the Ball sprite shrink:
+You want the **Ball** sprite to get smaller when you click it so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the **Ball** sprite shrink:
 
 ```blocks3
 when this sprite clicked
@@ -38,7 +38,7 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-Now add a `set size to`{:class="block3looks"} block to the bottom of your code and set the Ball sprite back to `200`%: 
+Now add a `set size to`{:class="block3looks"} block to the bottom of your code and set the **Ball** sprite back to `200`%: 
 
 ```blocks3
 when this sprite clicked

@@ -20,7 +20,7 @@ Now you are in the **code area**.
 --- /task ---
 
 --- task ---
-Click on the Ball sprite. From `Events`{:class="block3events"} drag a `when this sprite clicked`{:class="block3events"} block,  into the code area on the right:
+Click on the **Ball** sprite. From `Events`{:class="block3events"} drag a `when this sprite clicked`{:class="block3events"} block,  into the code area on the right:
 
 ```blocks3
 when this sprite clicked
@@ -102,7 +102,7 @@ Click on `Looks`{:class="block3looks"} and then click on `clear graphic effects`
 --- /task ---
 
 --- task ---
-Now add a `clear graphic effects`{:class="block3looks"} to the bottom of your code so that it returns to normal every time you click on the Ball: 
+Now add a `clear graphic effects`{:class="block3looks"} to the bottom of your code so that it returns to normal every time you click on the **Ball**: 
 
 ```blocks3
 when this sprite clicked
