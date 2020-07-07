@@ -16,6 +16,7 @@ Drag a `change size by`{:class="block3looks"} block under your `when this sprite
 ![screenshot](images/balls-change-size-snap.png){:width="350px"}
 
 Your code should look like this:
+
 ```blocks3
 when this sprite clicked
 +change size by (10)
