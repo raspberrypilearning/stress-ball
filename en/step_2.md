@@ -18,7 +18,7 @@ The Scratch environment which you will open looks like this:
 
 --- task ---
 
-The Cat sprite that you can see is the Scratch mascot. 
+The cat sprite that you can see is the Scratch mascot. 
 
 --- no-print ---
 Watch this short video which shows what to do next.

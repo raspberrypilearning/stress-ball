@@ -28,7 +28,7 @@ The Ball sprite on the stage will switch to the costume you have chosen.
 --- /task ---
 
 --- task ---
-Click on the **Fill** colour chooser and change the Fill colour to black by dragging the Brightness all the way down to 0.
+Click on the **Fill** colour chooser and change the fill colour to black by dragging the Brightness all the way down to 0.
 
 ![screenshot](images/balls-fill-colour.png)
 
