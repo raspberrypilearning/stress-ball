@@ -55,16 +55,19 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Click in the `0` box and change the value to `100`. This will create lots of whirl!
+Click in the `0` box and change the value to `100`: 
 
 ```blocks3
 when this sprite clicked
 +set [whirl v] effect to (100)
 ```
+
+This will create lots of whirl!
+
 --- /task ---
 
 --- task ---
-Add a `play sound until done`{:class="block3sound"} block.
+Add a `play sound until done`{:class="block3sound"} block:
 
 ```blocks3
 when this sprite clicked
@@ -74,7 +77,7 @@ set [whirl v] effect to (100)
 --- /task ---
 
 --- task ---
-Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}.
+Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}:
 
 ![screenshot](images/balls-pop-boing.png){:width="350px"}
 
@@ -99,7 +102,7 @@ Click on `Looks`{:class="block3looks"} and then click on `clear graphic effects`
 --- /task ---
 
 --- task ---
-Now add a `clear graphic effects`{:class="block3looks"} to the bottom of your code so that it returns to normal every time you click on the Ball. 
+Now add a `clear graphic effects`{:class="block3looks"} to the bottom of your code so that it returns to normal every time you click on the Ball: 
 
 ```blocks3
 when this sprite clicked

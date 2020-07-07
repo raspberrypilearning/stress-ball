@@ -26,7 +26,7 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-You want the Ball sprite to get smaller when you click it so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the Ball sprite shrink.
+You want the Ball sprite to get smaller when you click it so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the Ball sprite shrink:
 
 ```blocks3
 when this sprite clicked
