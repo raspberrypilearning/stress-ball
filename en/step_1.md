@@ -1,11 +1,11 @@
 ## Introduction
 
-Use Scratch to create a stress ball that you can squish!
+Use Scratch to create a stress ball that you can squash!
 
 ### What you will make
 
 --- no-print ---
-Click or tap on the stress ball to squish it and hear the sounds it makes.
+Click or tap on the stress ball to squash it and hear the sounds that it makes.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/401316899/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -22,7 +22,7 @@ title: What you will need
 ---
 #### Hardware
 
-+ A Computer or tablet capable of running Scratch
++ A computer or tablet capable of running Scratch
 
 #### Software
 
@@ -46,7 +46,7 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-You can find the completed project [here](http://rpf.io/p/en/stress-ball-get){:target="_blank"}.
+You can [download the completed project here](http://rpf.io/p/en/stress-ball-get){:target="_blank"}.
 
 If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
 
