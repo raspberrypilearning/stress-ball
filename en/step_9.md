@@ -1,6 +1,6 @@
-## Challenge: Improve your project
+## Challenge: improve your project
 
-Use what you've learned to add more stress toys to your project. 
+Use what you have learned to add more stress toys to your project. 
 
 --- no-print ---
 Watch this short video for a reminder:
@@ -8,14 +8,14 @@ Watch this short video for a reminder:
 ![screenshot](images/balls-challenge2.gif) 
 --- /no-print ---
 
-Now follow each task given below.
+Now, follow each task given below.
 
-You don't have to start from the **Ball** sprite. Try adding a different sprite to your project and see what happens when you add graphics effects to it. 
+You do not have to start from the **Ball** sprite. Try adding a different sprite to your project and see what happens when you add graphics effects to it. 
 
 Try choosing a different backdrop.
 
 --- no-print ---
-Here's an example:
+Here is an example:
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/403409939/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -26,4 +26,4 @@ Here's an example:
 ![Complete project](images/balls-challenge-static.png)
 --- /print-only ---
 
-__Tip:__ Make sure you **Save** your project.
+__Tip:__ Make sure that you **Save** your project.
