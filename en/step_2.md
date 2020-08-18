@@ -1,6 +1,6 @@
 ## Add a Ball sprite
 
-__Sprites__ are the characters and objects in your project. You're going to create a Ball sprite and turn it into a stress ball.
+__Sprites__ are the characters and objects in your project. You will create a **Ball** sprite and turn it into a stress ball.
 
 --- task ---
 
@@ -8,9 +8,9 @@ Open a new Scratch project.
 
 **Online:** open a new online Scratch project at [scratch.mit.edu/](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
 
-**Offline:** open a new project in the offline editor. If you need to download and install the Scratch offline editor, you can find it at [scratch.mit.edu/download](https://scratch.mit.edu/download){:target=”_blank”}.
+**Offline:** open a new project in the offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target=”_blank”}.
 
-The Scratch environment which you will open looks like this:
+The Scratch environment that you will open looks like this:
 
 ![screenshot](images/balls-scratch.png)
 
@@ -21,14 +21,14 @@ The Scratch environment which you will open looks like this:
 The cat sprite that you can see is the Scratch mascot. 
 
 --- no-print ---
-Watch this short video which shows what to do next.
+Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step2.gif) 
 
 Now follow each task given below.
 --- /no-print ---
 
-You don't need a cat for this game, so delete it by right-clicking with your mouse and then clicking on **delete**.
+You don't need a cat for this game, so to delete it, right-click with your mouse and then click on **delete**.
 
 ![screenshot](images/balls-delete-annotated.png)
 
@@ -36,9 +36,9 @@ You don't need a cat for this game, so delete it by right-clicking with your mou
 
 --- task ---
 
-Next, click on Choose a Sprite to open up a list of all the Scratch sprites.
+Next, click on **Choose a Sprite** to open a list of all the Scratch sprites.
 
-If you're using a tablet, tap twice on the Choose a Sprite cat.
+If you are using a tablet, tap twice on the **Choose a Sprite** button.
 
 ![screenshot](images/balls-choose-sprite.png)
 
@@ -64,7 +64,7 @@ Drag the **Ball** sprite to the middle of the Stage.
 The ball is a bit small. 
 
 --- task ---
-Under the stage there are some sprite settings that you can change. The size starts at 100%. To make the sprite bigger, change it to 200% - this is double the size. 
+Under the Stage, there are some sprite settings that you can change. The size starts at 100%. To make the sprite bigger, change it to `200%` — this is double the size. 
 
 ![screenshot](images/balls-size-200.png)
 
@@ -76,9 +76,9 @@ Give your program a name by typing into the text box at the top.
 
 ![name](images/balls-name-annotated.png)
 
-Then click on **File**, and then on **Save now** to save your project.
+Next, click on **File**, and then on **Save now** to save your project.
 
-If you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 ![screenshot](images/balls-save.png)
 
