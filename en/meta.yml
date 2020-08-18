@@ -1,6 +1,6 @@
 title: Stress ball
 hero_image: images/stress-banner.png
-description: Use Scratch to create a stress ball that you can squish!
+description: Use Scratch to create a stress ball that you can squash!
 version: 4
 listed: false
 copyedit: false
@@ -9,10 +9,10 @@ steps:
   - title: Introduction
   - title: Add a Ball sprite
   - title: Add a face 
-  - title: Squish it
+  - title: Squash it
   - title: Shrink it
   - title: Add a better sound effect
-  - title: "Challenge: Improve your stress ball"
+  - title: "Challenge: improve your stress ball"
   - title: Add a backdrop
-  - title: "Challenge: Improve your project"
+  - title: "Challenge: improve your project"
   - title: What next?
