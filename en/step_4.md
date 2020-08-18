@@ -1,26 +1,26 @@
-## Squish it
-Now you can add code to make the stress ball look like it's being squished when you click or tap on it. 
+## Squash it
+Now, you can add code to make the stress ball look like it is being squashed when you click or tap on it. 
 
 --- no-print ---
-Watch this short video which shows what to do next.
+Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step4.gif) 
 
-Now follow each task given below.
+Now, follow each task given below.
 --- /no-print ---
 
 --- task ---
 
-Click on the **Code** tab
+Click on the **Code** tab.
 
 ![screenshot](images/balls-code.png)
 
-Now you are in the **code area**.
+Now, you are in the **Code area**.
 
 --- /task ---
 
 --- task ---
-Click on the **Ball** sprite. From `Events`{:class="block3events"} drag a `when this sprite clicked`{:class="block3events"} block,  into the code area on the right:
+Click on the **Ball** sprite. From the `Events`{:class="block3events"} blocks menu, drag a `when this sprite clicked`{:class="block3events"} block into the Code area on the right-hand side:
 
 ```blocks3
 when this sprite clicked
@@ -29,7 +29,7 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-From `Looks`{:class="block3looks"} drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure it 'snaps' into place: 
+From the `Looks`{:class="block3looks"} blocks menu, drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure that it 'snaps' into place: 
 
 ```blocks3
 when this sprite clicked
@@ -89,20 +89,20 @@ set [whirl v] effect to (100)
 --- /task ---
 
 --- task ---
-Click on your stress ball to see it shrink and whirled and then play the sound.
+Click on your stress ball to see it shrink and whirl and then play the sound.
 
 ![screenshot](images/balls-effect.png){:width="150px"}
 
 --- /task ---
 
 --- task ---
-Click on `Looks`{:class="block3looks"} and then click on `clear graphic effects`{:class="block3looks"} in the editor to remove the whirl effect. You might need to scroll down to find the block.
+Click on `Looks`{:class="block3looks"}, then click on `clear graphic effects`{:class="block3looks"} in the editor to remove the whirl effect. You might need to scroll down to find the block.
 
 ![screenshot](images/balls-clear-graphic-effects.png){:width="350px"}
 --- /task ---
 
 --- task ---
-Now add a `clear graphic effects`{:class="block3looks"} to the bottom of your code so that it returns to normal every time you click on the **Ball**: 
+Now, add a `clear graphic effects`{:class="block3looks"} block to the bottom of your code so that it returns to normal every time you click on the **Ball**: 
 
 ```blocks3
 when this sprite clicked
@@ -125,7 +125,7 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-Click on your sprite to try it out. Try it again. And again. 
+Click on your sprite to try it out. Try it again. Then, try it again!
 --- /task ---
 
 --- save ---
