@@ -1,9 +1,9 @@
 ## What next?
 
-You've done really well! You have learned the following:
-+ How to add code to your stress ball sprite, and how to select a dramatic backdrop to suit your project
-+ How to use the paint tool to add facial features and colour to your stress ball sprite
-+ How to add graphic effects and sound to your stress ball sprite to make it squeeze and squeak
+In this project you have:
++ Used the paint tool to create your own stress ball sprite.
++ Added a sound to your stress ball that is played when clicked.
++ Added graphic effects to your stress ball to squish it.
 
 If you are following the Look After Yourself pathway, then try out the project [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden).
 
