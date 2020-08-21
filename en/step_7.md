@@ -1,7 +1,7 @@
 ## Challenge: improve your stress ball
 Make your stress ball even better. 
 
-Use the **Brush** or **Paint** tools to add hair and other features.
+Use the **Brush** tool or other tools in the Paint editor to add hair and other features.
 
 --- no-print ---
 Watch this short video, which shows what to do next.
