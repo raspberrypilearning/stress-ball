@@ -8,11 +8,11 @@ Watch this short video for a reminder:
 ![screenshot](images/balls-challenge2.gif) 
 --- /no-print ---
 
-Now, follow each task given below.
+Now, follow the instructions for each task below.
 
-You do not have to start from the **Ball** sprite. Try adding a different sprite to your project and see what happens when you add graphics effects to it. 
+You do not have to start from the **Ball** sprite. Add a different sprite to your project and see what happens when you add graphic effects to it. 
 
-Try choosing a different backdrop.
+Choose a different backdrop.
 
 --- no-print ---
 Here is an example:
