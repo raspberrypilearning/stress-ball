@@ -13,7 +13,7 @@ Watch this short video, which shows what to do next.
 Now, follow the instructions for each task below.
 --- /no-print ---
 
-Click on **Choose a Backdrop** to add a backdrop to the Stage.
+Click on **Choose a Backdrop** to add a backdrop to the **Stage**.
 
 ![screenshot](images/balls-backdrop.png)
 
