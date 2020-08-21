@@ -11,7 +11,7 @@ Now, follow the instructions for each task below.
 --- /no-print ---
 
 --- task ---
-Drag a `change size by`{:class="block3looks"} block under your `when this sprite clicked`{:class="block3events"}. A space will open up for the block and it will snap into place. 
+Drag a `change size by`{:class="block3looks"} block under your `when this sprite clicked`{:class="block3events"} block. A space will open up for the block and it will fit into place. 
 
 ![screenshot](images/balls-change-size-snap.png){:width="350px"}
 
@@ -27,7 +27,7 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-The **Ball** sprite needs to get smaller when you click it, so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the **Ball** sprite shrink:
+The **Ball** sprite needs to get smaller when you click on it, so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the **Ball** sprite shrink:
 
 ```blocks3
 when this sprite clicked
@@ -39,7 +39,7 @@ clear graphic effects
 --- /task ---
 
 --- task ---
-Now, add a `set size to`{:class="block3looks"} block to the bottom of your code and set the **Ball** sprite back to `200` (percent): 
+Now, add a `set size to`{:class="block3looks"} block to the bottom of your code and set the size of the **Ball** sprite back to `200` (percent): 
 
 ```blocks3
 when this sprite clicked
