@@ -7,7 +7,7 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step6.gif) 
 
-Now, follow each task given below.
+Now, follow the instructions for each task below.
 --- /no-print ---
 
 --- task ---
