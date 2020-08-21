@@ -5,7 +5,7 @@ Use Scratch to create a stress ball that you can squash!
 ### What you will make
 
 --- no-print ---
-Click or tap on the stress ball to squash it and hear the sounds that it makes.
+Click or tap on the stress ball to squash it and hear the sound that it makes.
 
 <div class="scratch-preview">
   <iframe src="https://scratch.mit.edu/projects/401316899/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
