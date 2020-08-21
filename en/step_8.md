@@ -10,10 +10,10 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step8.gif) 
 
-Now, follow each task given below.
+Now, follow the instructions for each task below.
 --- /no-print ---
 
-Click on **Choose a Backdrop** to add a backdrop to it.
+Click on **Choose a Backdrop** to add a backdrop to the Stage.
 
 ![screenshot](images/balls-backdrop.png)
 
