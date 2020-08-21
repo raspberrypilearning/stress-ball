@@ -67,7 +67,7 @@ This will create lots of whirl!
 --- /task ---
 
 --- task ---
-Add a `play sound until done`{:class="block3sound"} block:
+Add a `play sound Pop until done`{:class="block3sound"} block:
 
 ```blocks3
 when this sprite clicked
