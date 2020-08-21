@@ -55,7 +55,7 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Change the value from `0`  to `100`:  
+Change the value from `0` to `100`:
 
 ```blocks3
 when this sprite clicked
