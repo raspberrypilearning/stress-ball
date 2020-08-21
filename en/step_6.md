@@ -40,9 +40,9 @@ Then, click on **Squeaky Toy** to add the sound to the **Ball** sprite. Now, you
 --- /task ---
 
 --- task ---
-Click on the **Code** tab to return to the code editor. 
+Click on the **Code** tab to return to the Code area. 
 
-Click on `Boing`{:class="block3sound"} in the `play sound until done`{:class="block3sound"} block and change it to `Squeaky Toy`{:class="block3sound"}.
+Click on `Boing`{:class="block3sound"} in the `play sound Boing until done`{:class="block3sound"} block and change it to `Squeaky Toy`{:class="block3sound"}.
 
 ![screenshot](images/balls-squeakytoy.png){:width="350px"}
 
@@ -54,7 +54,7 @@ change size by (-50)
 set [whirl v] effect to (100)
 +play sound [Squeaky Toy v] until done
 clear graphic effects
-set size to (200)
+set size to (200)%
 ```
 --- /task ---
 
