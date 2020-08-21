@@ -6,7 +6,7 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step3.gif) 
 
-Now, follow each task given below.
+Now, follow the instructions for each task below.
 --- /no-print ---
 
 --- task ---
@@ -43,7 +43,7 @@ Click on the **Circle** tool.
 --- task ---
 Draw two eyes. 
 
-If you are using a mouse or trackpad, hold down the left button and drag until the circle is the size and shape that you want.
+If you are using a mouse or trackpad, hold down the left button and drag until the circle is the size and shape that you want, then release the button.
 
 ![screenshot](images/balls-eyes.png)
 
@@ -59,7 +59,7 @@ Use the **Circle** tool to draw a mouth.
 ![screenshot](images/balls-mouth.png)
 --- /task ---
 
-**Tip:** Click on the **Select** (arrow) tool then you can drag the features you have drawn to move them.
+**Tip:** To move the features that you have drawn, click on the **Select** (arrow) tool, then click on the features and drag them into position.
 
 ![screenshot](images/balls-move.png)
 
