@@ -6,7 +6,7 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step4.gif) 
 
-Now, follow each task given below.
+Now, follow the instructions for each task below.
 --- /no-print ---
 
 --- task ---
@@ -29,7 +29,7 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-From the `Looks`{:class="block3looks"} blocks menu, drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure that it 'snaps' into place: 
+From the `Looks`{:class="block3looks"} blocks menu, drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure that they connect together:
 
 ```blocks3
 when this sprite clicked
@@ -55,7 +55,7 @@ when this sprite clicked
 --- /task ---
 
 --- task ---
-Click in the `0` box and change the value to `100`: 
+Change the value from `0`  to `100`:  
 
 ```blocks3
 when this sprite clicked
@@ -89,20 +89,20 @@ set [whirl v] effect to (100)
 --- /task ---
 
 --- task ---
-Click on your stress ball to see it shrink and whirl and then play the sound.
+Click on your stress ball to see it whirl and then play the sound.
 
 ![screenshot](images/balls-effect.png){:width="150px"}
 
 --- /task ---
 
 --- task ---
-Click on `Looks`{:class="block3looks"}, then click on `clear graphic effects`{:class="block3looks"} in the editor to remove the whirl effect. You might need to scroll down to find the block.
+Click on `Looks`{:class="block3looks"}, then click on the `clear graphic effects`{:class="block3looks"} block in the Blocks menu to remove the whirl effect. You might need to scroll down to find the block.
 
 ![screenshot](images/balls-clear-graphic-effects.png){:width="350px"}
 --- /task ---
 
 --- task ---
-Now, add a `clear graphic effects`{:class="block3looks"} block to the bottom of your code so that it returns to normal every time you click on the **Ball**: 
+Now, add a `clear graphic effects`{:class="block3looks"} block to the bottom of your code so that the ball always returns to its original state after it has been squashed: 
 
 ```blocks3
 when this sprite clicked
