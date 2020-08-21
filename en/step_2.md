@@ -6,7 +6,7 @@ __Sprites__ are the characters and objects in your project. You will create a **
 
 Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [scratch.mit.edu/](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
+**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
 
 **Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target=”_blank”}.
 
@@ -25,10 +25,10 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step2.gif) 
 
-Now follow each task given below.
+Now, follow the instructions for each task below.
 --- /no-print ---
 
-You don't need a cat for this game, so to delete it, right-click with your mouse and then click on **delete**.
+You don't need a cat for this project, so you can delete it: right-click on the cat sprite in the Sprite list and then click on **delete**.
 
 ![screenshot](images/balls-delete-annotated.png)
 
@@ -36,7 +36,7 @@ You don't need a cat for this game, so to delete it, right-click with your mouse
 
 --- task ---
 
-Next, click on **Choose a Sprite** to open a list of all the Scratch sprites.
+Next, click on **Choose a Sprite** to open the Sprite Library.
 
 If you are using a tablet, tap twice on the **Choose a Sprite** button.
 
@@ -64,7 +64,7 @@ Drag the **Ball** sprite to the middle of the Stage.
 The ball is a bit small. 
 
 --- task ---
-Under the Stage, there are some sprite settings that you can change. The size starts at 100%. To make the sprite bigger, change it to `200%` — this is double the size. 
+Below the Stage, there are some sprite settings that you can change. The size starts at `100` (percent). To make the sprite bigger, change it to `200` — this is double the size.  
 
 ![screenshot](images/balls-size-200.png)
 
@@ -72,7 +72,7 @@ Under the Stage, there are some sprite settings that you can change. The size st
 
 --- task ---
 
-Give your program a name by typing into the text box at the top.
+Type the name of your program into the text box at the top of the screen, to give your program a name.
 
 ![name](images/balls-name-annotated.png)
 
