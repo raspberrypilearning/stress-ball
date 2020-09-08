@@ -37,7 +37,7 @@ title: What you will learn
 
 + How to add code to sprites and a backdrop
 + How to use the tools in the Paint editor to add details to a sprite
-+ How to add graphic effects and sound to a sprite
++ How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
 
 --- /collapse ---
 
