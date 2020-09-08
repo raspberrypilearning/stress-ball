@@ -1,6 +1,8 @@
 ## Squash it
 Now, you can add code to make the stress ball look like it is being squashed when you click or tap on it. 
 
+--- task ---
+
 --- no-print ---
 Watch this short video, which shows what to do next.
 
@@ -8,6 +10,8 @@ Watch this short video, which shows what to do next.
 
 Now, follow the instructions for each task below.
 --- /no-print ---
+
+--- /task ---
 
 --- task ---
 
