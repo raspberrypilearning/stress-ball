@@ -8,10 +8,11 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step3.gif) 
 
-Now, follow the instructions for each task below.
 --- /no-print ---
 
 --- /task ---
+
+Now, follow the instructions for each task below.
 
 --- task ---
 
