@@ -25,8 +25,13 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step2.gif) 
 
-Now, follow the instructions for each task below.
 --- /no-print ---
+
+--- /task ---
+
+Now, follow the instructions for each task below.
+
+--- task ---
 
 You don't need a cat for this project, so you can delete it: right-click on the cat sprite in the Sprite list and then click on **delete**.
 
