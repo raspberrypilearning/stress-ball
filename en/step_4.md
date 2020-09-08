@@ -20,7 +20,7 @@ Now, you are in the **Code area**.
 --- /task ---
 
 --- task ---
-Click on the **Ball** sprite. From the `Events`{:class="block3events"} blocks menu, drag a `when this sprite clicked`{:class="block3events"} block into the Code area on the right-hand side:
+From the `Events`{:class="block3events"} blocks menu, drag a `when this sprite clicked`{:class="block3events"} block into the Code area on the right-hand side:
 
 ```blocks3
 when this sprite clicked
