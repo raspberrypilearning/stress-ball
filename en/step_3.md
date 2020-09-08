@@ -2,12 +2,15 @@
 In Scratch, the picture used for a sprite is called a **costume**. In this step, you will add a face to the **Ball** sprite to make it more interesting. 
 
 --- no-print ---
+--- task ---
 Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step3.gif) 
 
 Now, follow the instructions for each task below.
 --- /no-print ---
+
+--- /task ---
 
 --- task ---
 
