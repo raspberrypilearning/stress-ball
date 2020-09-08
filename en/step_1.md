@@ -37,7 +37,7 @@ title: What you will learn
 
 + How to add code to sprites and a backdrop
 + How to use the tools in the Paint editor to add details to a sprite
-+ How to add graphic effects and sound to a sprite
++ How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
 
 --- /collapse ---
 
@@ -48,6 +48,6 @@ title: Additional information for educators
 
 You can [download the completed project here](http://rpf.io/p/en/stress-ball-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/stress-ball/print){:target="_blank"}.
 
 --- /collapse ---
