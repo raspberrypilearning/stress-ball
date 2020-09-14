@@ -1,16 +1,17 @@
 ## Squash it
 Now, you can add code to make the stress ball look like it is being squashed when you click or tap on it. 
 
+--- no-print ---
+
 --- task ---
 
---- no-print ---
 Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step4.gif) 
 
---- /no-print ---
-
 --- /task ---
+
+--- /no-print ---
 
 Now, follow the instructions for each task below.
 
@@ -26,6 +27,8 @@ Now, you are in the **Code area**.
 
 --- task ---
 From the `Events`{:class="block3events"} blocks menu, drag a `when this sprite clicked`{:class="block3events"} block into the Code area on the right-hand side:
+
+![screenshot](images/balls-when-this-sprite-clicked.png)
 
 ```blocks3
 when this sprite clicked
