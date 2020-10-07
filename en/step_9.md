@@ -23,7 +23,9 @@ Here is an example:
 --- /no-print ---
 
 --- print-only ---
+
 ![Complete project](images/balls-challenge-static.png)
+
 --- /print-only ---
 
 __Tip:__ Make sure that you **Save** your project.

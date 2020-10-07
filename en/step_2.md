@@ -6,9 +6,9 @@ __Sprites__ are the characters and objects in your project. You will create a **
 
 Open a new Scratch project.
 
-**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target=”_blank”}.
+**Online:** open a new online Scratch project at [scratch.mit.edu](https://scratch.mit.edu/projects/editor){:target="_blank"}.
 
-**Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target=”_blank”}.
+**Offline:** open a new project in the Scratch offline editor. If you need to, you can [download and install Scratch here](https://scratch.mit.edu/download){:target="_blank"}.
 
 The Scratch environment that you will open looks like this:
 
@@ -25,8 +25,13 @@ Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step2.gif) 
 
-Now, follow the instructions for each task below.
 --- /no-print ---
+
+--- /task ---
+
+Now, follow the instructions for each task below.
+
+--- task ---
 
 You don't need a cat for this project, so you can delete it: right-click on the cat sprite in the Sprite list and then click on **delete**.
 

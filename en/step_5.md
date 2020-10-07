@@ -2,13 +2,17 @@
 
 Now, you will make the **Ball** sprite shrink as well as squash when you click on it.
 
+--- task ---
+
 --- no-print ---
 Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step5.gif) 
 
-Now, follow the instructions for each task below.
 --- /no-print ---
+--- /task ---
+
+Now, follow the instructions for each task below.
 
 --- task ---
 Drag a `change size by`{:class="block3looks"} block under your `when this sprite clicked`{:class="block3events"} block. A space will open up for the block and it will fit into place. 

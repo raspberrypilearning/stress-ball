@@ -48,6 +48,6 @@ title: Additional information for educators
 
 You can [download the completed project here](http://rpf.io/p/en/stress-ball-get){:target="_blank"}.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/stress-ball){:target="_blank"}.
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/stress-ball/print){:target="_blank"}.
 
 --- /collapse ---
