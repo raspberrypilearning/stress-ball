@@ -23,7 +23,7 @@ The cat sprite that you can see is the Scratch mascot.
 --- no-print ---
 Watch this short video, which shows what to do next.
 
-![screenshot](resources/balls-step2.mp4) 
+![screenshot](images/balls-step2.gif)
 
 --- /no-print ---
 
