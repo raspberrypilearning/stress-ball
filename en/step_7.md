@@ -24,8 +24,6 @@ Change the size that your stress ball shrinks and grows to.
 
 Try the `fisheye`{:class="block3looks"} effect instead of `whirl`{:class="block3looks"}. You could also find out what happens if you choose negative numbers.
 
-## Challenge: improve your project
-
 Use what you have learned to add more stress toys to your project. 
 
 --- no-print ---
