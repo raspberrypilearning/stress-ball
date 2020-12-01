@@ -1,4 +1,4 @@
-## Add a backdrop
+## Insert a backdrop
 
 Now, you will add a colourful backdrop to your project. At the moment, the Stage is white and boring!
 
