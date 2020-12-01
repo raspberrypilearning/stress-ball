@@ -1,4 +1,4 @@
-## Add a face
+## Draw a face
 In Scratch, the picture used for a sprite is called a **costume**. In this step, you will add a face to the **Ball** sprite to make it more interesting. 
 
 --- task ---
