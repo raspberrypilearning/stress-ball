@@ -1,4 +1,4 @@
-## Add a better sound effect
+## Choose your own sound effect
 
 Now, you will add a better sound effect to your stress ball.
 
