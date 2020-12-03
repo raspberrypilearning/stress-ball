@@ -53,7 +53,7 @@ If you are using a tablet, tap twice on the **Choose a Sprite** button.
 
 Click on the **Ball** sprite to add it to your project.
 
-![screenshot](images/balls-sprite-ball.png){:width="400px"}
+![screenshot](images/balls-sprite-ball.png){:width="300px"}
 
 --- /task ---
 
