@@ -19,7 +19,7 @@ Now, follow the instructions for each task below.
 
 Click on **Choose a Backdrop** to add a backdrop to the **Stage**.
 
-![screenshot](images/balls-backdrop.png)
+![screenshot](images/balls-backdrop.png){:width="500px"}
 
 --- /task ---
 
@@ -27,7 +27,7 @@ Click on **Choose a Backdrop** to add a backdrop to the **Stage**.
 
 Type in `neon` or scroll down until you see the **Neon Tunnel** backdrop, then click on it. The backdrops are in alphabetical order. 
 
-![screenshot](images/balls-neon-backdrop.png)
+![screenshot](images/balls-neon-backdrop.png){:width="500px"}
 
 --- /task ---
 
@@ -35,6 +35,6 @@ Type in `neon` or scroll down until you see the **Neon Tunnel** backdrop, then c
 
 Your Stage should now look similar to this:
 
-![screenshot](images/balls-neon-stage.png)
+![screenshot](images/balls-neon-stage.png){:width="500px"}
 
 --- /task ---
