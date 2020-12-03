@@ -79,13 +79,13 @@ Below the Stage, there are some sprite settings that you can change. The size st
 
 Type the name of your program into the text box at the top of the screen, to give your program a name.
 
-![name](images/balls-name-annotated.png){:width="400px"}
+![name](images/balls-name-annotated.png)
 
 Next, click on **File**, and then on **Save now** to save your project.
 
 If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
-![screenshot](images/balls-save.png){:width="400px"}
+![screenshot](images/balls-save.png)
 
 --- /task ---
 
