@@ -18,7 +18,7 @@ Now, follow the instructions for each task below.
 
 Click on the **Costumes** tab.
 
-![screenshot](images/balls-costumes.png){:width="400px"}
+![screenshot](images/balls-costumes.png){:width="500px"}
 
 --- /task ---
 
@@ -27,7 +27,7 @@ Now, you are in the **Paint editor**.
 --- task ---
 The **Ball** sprite has five different-coloured costumes. Click on the costume that you like the most.
 
-![screenshot](images/balls-costume-colour.png){:width="400px"}
+![screenshot](images/balls-costume-colour.png){:width="500px"}
 
 The **Ball** sprite on the Stage will switch to the costume that you have chosen.
 --- /task ---
@@ -35,7 +35,7 @@ The **Ball** sprite on the Stage will switch to the costume that you have chosen
 --- task ---
 Click on the **Fill** colour chooser and drag the **Brightness** to 0 to change the **Fill** colour to black.
 
-![screenshot](images/balls-fill-colour.png){:width="400px"}
+![screenshot](images/balls-fill-colour.png){:width="500px"}
 
 --- /task ---
 --- task ---
