@@ -19,7 +19,7 @@ Now, follow the instructions for each task below.
 
 Click on the **Code** tab.
 
-![screenshot](images/balls-code.png)
+![screenshot](images/balls-code.png){:width="500px"}
 
 Now, you are in the **Code area**.
 
@@ -28,7 +28,7 @@ Now, you are in the **Code area**.
 --- task ---
 From the `Events`{:class="block3events"} blocks menu, drag a `when this sprite clicked`{:class="block3events"} block into the Code area on the right-hand side:
 
-![screenshot](images/balls-when-this-sprite-clicked.png)
+![screenshot](images/balls-when-this-sprite-clicked.png){:width="500px"}
 
 ```blocks3
 when this sprite clicked
@@ -51,7 +51,7 @@ Notice that the colour of each block tells you where you can find it.
 --- task ---
 Click on `color`{:class="block3looks"} and change it to `whirl`{:class="block3looks"}.
 
-![screenshot](images/balls-color-whirl.png){:width="350px"}
+![screenshot](images/balls-color-whirl.png){:width="300px"}
 
 Your code should look like this:
 
@@ -87,7 +87,7 @@ set [whirl v] effect to (100)
 --- task ---
 Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}:
 
-![screenshot](images/balls-pop-boing.png){:width="350px"}
+![screenshot](images/balls-pop-boing.png){:width="300px"}
 
 ```blocks3
 when this sprite clicked
@@ -106,7 +106,7 @@ Click on your stress ball to see it whirl and then play the sound.
 --- task ---
 Click on `Looks`{:class="block3looks"}, then click on the `clear graphic effects`{:class="block3looks"} block in the Blocks menu to remove the whirl effect. You might need to scroll down to find the block.
 
-![screenshot](images/balls-clear-graphic-effects.png){:width="350px"}
+![screenshot](images/balls-clear-graphic-effects.png){:width="300px"}
 --- /task ---
 
 --- task ---
