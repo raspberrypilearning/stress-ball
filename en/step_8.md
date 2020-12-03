@@ -12,11 +12,11 @@ Watch this short video, which shows what to do next.
 Now, follow the instructions for each task below.
 --- /no-print ---
 
-![screenshot](images/balls-brush-paint.png)
+![screenshot](images/balls-brush-paint.png){:width="500px"}
 
 You can change the colour using the sliders. 
 
-![screenshot](images/balls-color-sliders.png)
+![screenshot](images/balls-color-sliders.png){:width="300px"}
 
 Try to find a different sound that works well. 
 
