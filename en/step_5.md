@@ -83,7 +83,7 @@ You can also delete a sprite by clicking on the sprite's Trash can in the Sprite
 
 To restore a sprite, including all of it's code blocks, go to the Edit menu and select **Restore Sprite**
 
-![screenshot](images/restore-sprite.png){:width="300px"}
+![screenshot](images/restore-sprite.png){:width="400px"}
 
 --- no-print ---
 
