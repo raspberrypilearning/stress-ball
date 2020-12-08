@@ -136,4 +136,6 @@ clear graphic effects
 Click on your sprite to try it out. Try it again. Then, try it again!
 --- /task ---
 
+__Tip:__ If you are logged in to Scratch then your project will save automatically, but you can also use **File** then **Save now**. If you do not have an account or you are working offline, remember to use **File** then **Save** when you make an important change. 
+
 --- save ---
