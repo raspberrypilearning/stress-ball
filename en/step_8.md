@@ -8,8 +8,6 @@ Use the **Brush** tool or other tools in the Paint editor to add hair and other 
 Watch this short video, which shows what to do next.
 
 ![screenshot](images/balls-step7.gif) 
-
-Now, follow the instructions for each task below.
 --- /no-print ---
 
 You can change the colour using the sliders. 
