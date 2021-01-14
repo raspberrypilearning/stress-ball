@@ -8,10 +8,11 @@ last_tested: "2020-09-01"
 steps:
   - title: Introduction
   - title: Add a Ball sprite
-  - title: Draw a face 
+  - title: Draw a face
   - title: Squash it
   - title: Shrink it
   - title: Choose your own sound effect
   - title: Insert a backdrop
+  - title: Reflection
   - title: Add more
   - title: What next?
