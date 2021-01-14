@@ -13,6 +13,11 @@ steps:
   - title: Shrink it
   - title: Choose your own sound effect
   - title: Insert a backdrop
-  - title: Reflection
+  - title: Test Your Knowledge
+    knowledge_quiz:
+      path: quiz1
+      version: 6
+      questions: 3
+      passing_score: 3
   - title: Add more
   - title: What next?

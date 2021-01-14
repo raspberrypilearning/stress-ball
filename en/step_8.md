@@ -1,67 +1,39 @@
-## Reflection
+## Add more
 
-You have learned a lot! Answer the following questions to
+Improve your stress ball. 
 
---- question ---
+Use the **Brush** tool or other tools in the Paint editor to add hair and other features.
 
----
-legend: Question 1 of 5
----
+--- no-print ---
+Watch this short video, which shows what to do next.
 
-A dog sprite in Scratch has the following code:
+![screenshot](images/balls-step7.gif) 
+--- /no-print ---
 
-![A dog](images/q1-1.png)
+You can change the colour using the sliders. 
 
-```blocks3
-when green flag clicked
-play sound [dog bark v]
+![screenshot](images/balls-brush-paint.png){:width="500px"}
 
-when [space v] key pressed
-move (10) steps
+Try to find a different sound that works well. 
 
-when this sprite clicked
-change size by (10)
+Change the size that your stress ball shrinks and grows to.
 
-when [loudness v] > (10)
-change [color v] effect by (25)
-```
+Try the `fisheye`{:class="block3looks"} effect instead of `whirl`{:class="block3looks"}. You could also find out what happens if you choose negative numbers.
 
-How would you get the dog sprite to change size?
+Use what you have learned to add more stress toys to your project. You do not have to start from the **Ball** sprite. Add a different sprite to your project and see what happens when you add graphic effects to it. 
 
---- choices ---
+--- no-print ---
+Here is an example:
 
-- ( ) Press the 'space' key
+<div class="scratch-preview">
+  <iframe src="https://scratch.mit.edu/projects/403409939/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</div>
+--- /no-print ---
 
-  --- feedback ---
-  What code is attached to the
-  ```blocks3
-  when [space v] key pressed
-  ```
-  event block?
-  --- /feedback ---
+--- print-only ---
 
-- ( ) Make a loud noise
+![Complete project](images/balls-challenge-static.png)
 
-  --- feedback ---
-  What code is attached to the
-  ```blocks3
-  when [loudness v] > (10)
-  ```
-  event block?
-  --- /feedback ---
+--- /print-only ---
 
-- ( ) Click the green flag
-
-  --- feedback ---
-  What code is attached to the
-  ```blocks3
-  when flag clicked
-  ```
-  event block?
-  --- /feedback ---
-
-- (x) Click on the dog sprite
-
---- /choices ---
-
---- /question ---
+__Tip:__ Make sure that you **Save** your project.
