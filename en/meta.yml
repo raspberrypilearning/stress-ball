@@ -16,7 +16,7 @@ steps:
   - title: Reflection
     knowledge_quiz:
       path: quiz1
-      version: 6
+      version: 1
       questions: 3
       passing_score: 3
   - title: Add more
