@@ -1,25 +1,40 @@
-## Challenge: improve your stress ball
-Make your stress ball even better. 
+## Insert a backdrop
 
-Use the **Brush** tool or other tools in the Paint editor to add hair and other features.
+Now, you will add a colourful backdrop to your project. At the moment, the Stage is white and boring!
 
 --- no-print ---
+
+--- task ---
 Watch this short video, which shows what to do next.
 
-![screenshot](images/balls-step7.gif) 
+![screenshot](images/balls-backdrop.gif) 
 
-Now, follow the instructions for each task below.
+--- /task ---
+
 --- /no-print ---
 
-![screenshot](images/balls-brush-paint.png)
+Now, follow the instructions for each task below.
 
-You can change the colour using the sliders. 
+--- task ---
 
-![screenshot](images/balls-color-sliders.png)
+Click on **Choose a Backdrop** to add a backdrop to the **Stage**.
 
-Try to find a different sound that works well. 
+![screenshot](images/balls-backdrop.png){:width="500px"}
 
-Change the size that your stress ball shrinks and grows to.
+--- /task ---
 
-Try the `fisheye`{:class="block3looks"} effect instead of `whirl`{:class="block3looks"}. You could also find out what happens if you choose negative numbers.
+--- task ---
 
+Type in `neon` or scroll down until you see the **Neon Tunnel** backdrop, then click on it. The backdrops are in alphabetical order. 
+
+![screenshot](images/balls-neon-backdrop.png){:width="500px"}
+
+--- /task ---
+
+--- task ---
+
+Your Stage should now look similar to this:
+
+![screenshot](images/balls-neon-stage.png){:width="500px"}
+
+--- /task ---

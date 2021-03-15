@@ -18,12 +18,12 @@ The Scratch environment that you will open looks like this:
 
 --- task ---
 
-The cat sprite that you can see is the Scratch mascot. 
+The cat sprite that you can see is the Scratch mascot.
 
 --- no-print ---
 Watch this short video, which shows what to do next.
 
-![screenshot](images/balls-step2.gif) 
+![screenshot](images/balls-step2.gif)
 
 --- /no-print ---
 
@@ -35,7 +35,7 @@ Now, follow the instructions for each task below.
 
 You don't need a cat for this project, so you can delete it: right-click on the cat sprite in the Sprite list and then click on **delete**.
 
-![screenshot](images/balls-delete-annotated.png)
+![screenshot](images/balls-delete-annotated.png){:width="400px"}
 
 --- /task ---
 
@@ -45,7 +45,7 @@ Next, click on **Choose a Sprite** to open the Sprite Library.
 
 If you are using a tablet, tap twice on the **Choose a Sprite** button.
 
-![screenshot](images/balls-choose-sprite.png)
+![screenshot](images/balls-choose-sprite.png){:width="400px"}
 
 --- /task ---
 
@@ -53,25 +53,25 @@ If you are using a tablet, tap twice on the **Choose a Sprite** button.
 
 Click on the **Ball** sprite to add it to your project.
 
-![screenshot](images/balls-sprite-ball.png)
+![screenshot](images/balls-sprite-ball.png){:width="300px"}
 
 --- /task ---
 
-The **Ball** sprite will appear on the Stage. The Stage is where all the action happens in your project. 
+The **Ball** sprite will appear on the Stage. The Stage is where all the action happens in your project.
 
 --- task ---
-Drag the **Ball** sprite to the middle of the Stage. 
+Drag the **Ball** sprite to the middle of the Stage.
 
-![screenshot](images/balls-stage-ball.png)
+![screenshot](images/balls-stage-ball.png){:width="400px"}
 
 --- /task ---
 
-The ball is a bit small. 
+The ball is a bit small.
 
 --- task ---
 Below the Stage, there are some sprite settings that you can change. The size starts at `100` (percent). To make the sprite bigger, change it to `200` — this is double the size.  
 
-![screenshot](images/balls-size-200.png)
+![screenshot](images/balls-size-200.png){:width="400px"}
 
 --- /task ---
 

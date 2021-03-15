@@ -17,7 +17,7 @@ Now, follow the instructions for each task below.
 --- task ---
 Drag a `change size by`{:class="block3looks"} block under your `when this sprite clicked`{:class="block3events"} block. A space will open up for the block and it will fit into place. 
 
-![screenshot](images/balls-change-size-snap.png){:width="350px"}
+![screenshot](images/balls-change-size-snap.png){:width="300px"}
 
 Your code should look like this:
 
@@ -61,6 +61,6 @@ Click on your stress ball to see if it is working correctly.
 
 --- /task ---
 
-__Tip:__ If you are logged in to Scratch then your project will save automatically, but you can also use **File** then **Save now**. If you do not have an account or you are working offline, remember to use **File** then **Save** when you make an important change. 
+__Tip:__ You can delete a block by dragging it towards the Blocks menu on the left-hand side.
 
 --- save ---

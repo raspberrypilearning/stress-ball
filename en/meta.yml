@@ -8,11 +8,16 @@ last_tested: "2020-09-01"
 steps:
   - title: Introduction
   - title: Add a Ball sprite
-  - title: Add a face 
+  - title: Draw a face
   - title: Squash it
   - title: Shrink it
-  - title: Add a better sound effect
-  - title: "Challenge: improve your stress ball"
-  - title: Add a backdrop
-  - title: "Challenge: improve your project"
+  - title: Choose your own sound effect
+  - title: Insert a backdrop
+  - title: Reflection
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+  - title: Add more
   - title: What next?
