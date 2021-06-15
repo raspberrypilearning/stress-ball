@@ -4,7 +4,7 @@ Use Scratch to create a stress ball app that you can click to squash!
 
 You will:
 + Turn a ball sprite into a stress ball by adding details in the Paint editor
-+ Add `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks to squash your stress ball sprite when you click on it
++ Add `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks to squash your stress ball when you click on it
 + Add a backdrop to the Stage to make your app more colourful
 
 In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. 
