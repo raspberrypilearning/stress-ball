@@ -1,55 +1,34 @@
 ## Introduction
 
-Use Scratch to create a stress ball that you can squash!
+Use Scratch to create a stress ball app that you can click to squash!
 
-### What you will make
+You will:
++ Turn a ball sprite into a stress ball by adding details in the Paint editor
++ Add `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks to squash your stress ball sprite when you click on it
++ Add a backdrop to the Stage to make your app more colourful
+
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. 
 
 --- no-print ---
+--- task ---
+### Try it
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 175px; flex-grow: 1">  
 Click or tap on the stress ball to squash it and hear the sound that it makes.
 
-<div class="scratch-preview">
-  <iframe src="https://scratch.mit.edu/projects/401316899/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+What happens if you click on the stress ball a few times quickly?
 </div>
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/401316899/?autostart=false" frameborder="0"></iframe>
+</div>
+</div>
+--- /task ---
 --- /no-print ---
 
 --- print-only ---
 ![Complete project](images/balls-showcase-static.png)
 --- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-#### Hardware
-
-+ A computer or tablet capable of running Scratch
-
-#### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ How to add code to sprites and a backdrop
-+ How to use the tools in the Paint editor to add details to a sprite
-+ How to add `graphic effects`{:class="block3looks"} and `sound`{:class="block3sound"} to a sprite
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can [download the completed project here](https://rpf.io/p/en/stress-ball-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/stress-ball/print){:target="_blank"}.
-
---- /collapse ---
-
 ![](http://code.org/api/hour/begin_rp_stress.png)
+
+Stress ball is the first project in the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) pathway. If you're not a complete Scratch beginner you could try one of the other projects. 

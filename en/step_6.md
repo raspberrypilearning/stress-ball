@@ -1,14 +1,20 @@
-## Choose your own sound effect
+## Insert a backdrop
 
-Now, you will add a better sound effect to your stress ball.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Now, you will add a colourful backdrop to your project. At the moment, the Stage is white and boring!
+</div>
+<div>
+![](images/with-backdrop.png){:width="300px"}
+</div>
+</div>
 
 --- no-print ---
 
 --- task ---
-
 Watch this short video, which shows what to do next.
 
-![screenshot](images/balls-step6.gif) 
+![screenshot](images/balls-backdrop.gif) 
 
 --- /task ---
 
@@ -17,56 +23,25 @@ Watch this short video, which shows what to do next.
 Now, follow the instructions for each task below.
 
 --- task ---
-Click on the **Sounds** tab.
 
-![screenshot](images/balls-sound-tab.png){:width="500px"}
+Click on **Choose a Backdrop** to add a backdrop to the **Stage**.
 
---- /task ---
-
---- task ---
-Click on **Choose a Sound**.
-
-![screenshot](images/balls-choose-sound.png){:width="500px"}
+![screenshot](images/balls-backdrop.png){:width="500px"}
 
 --- /task ---
 
 --- task ---
-Click on **Wacky**.
 
-![screenshot](images/balls-wacky.png){:width="500px"}
+Type in `neon` or scroll down until you see the **Neon Tunnel** backdrop, then click on it. The backdrops are in alphabetical order. 
 
---- /task ---
-
---- task ---
-Click on the **Play** button for the **Squeaky Toy** sound to hear it. 
-
-![screenshot](images/balls-play-button.png){:width="500px"}
-
-Then, click on **Squeaky Toy** to add the sound to the **Ball** sprite. Now, you can use this sound in your code.
+![screenshot](images/balls-neon-backdrop.png){:width="500px"}
 
 --- /task ---
 
 --- task ---
-Click on the **Code** tab to return to the Code area. 
 
-Click on `Boing`{:class="block3sound"} in the `play sound Boing until done`{:class="block3sound"} block and change it to `Squeaky Toy`{:class="block3sound"}.
+Your Stage should now look similar to this:
 
-![screenshot](images/balls-squeakytoy.png){:width="300px"}
+![screenshot](images/balls-neon-stage.png){:width="500px"}
 
-Your code should look like this:
-
-```blocks3
-when this sprite clicked
-change size by (-50)
-set [whirl v] effect to (100)
-+play sound [Squeaky Toy v] until done
-clear graphic effects
-set size to (200)%
-```
 --- /task ---
-
---- task ---
-Click on your stress ball again to try out the new sound effect. 
---- /task ---
-
---- save ---
