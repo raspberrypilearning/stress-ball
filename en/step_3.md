@@ -1,71 +1,151 @@
-## Draw a face
-In Scratch, the picture used for a sprite is called a **costume**. In this step, you will add a face to the **Ball** sprite to make it more interesting. 
+## Squash it
+
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Now, you can add code to make the stress ball look like it is being squashed when you click or tap on it. 
+</div>
+<div>
+![](images/tap-a-face.png){:width="300px"}
+</div>
+</div>
+
+--- no-print ---
 
 --- task ---
---- no-print ---
 
 Watch this short video, which shows what to do next.
 
-![screenshot](images/balls-step3.gif) 
-
---- /no-print ---
+![screenshot](images/balls-step4.gif) 
 
 --- /task ---
+
+--- /no-print ---
 
 Now, follow the instructions for each task below.
 
 --- task ---
 
-Click on the **Costumes** tab.
+Click on the **Code** tab.
 
-![screenshot](images/balls-costumes.png){:width="500px"}
+![screenshot](images/balls-code.png){:width="500px"}
 
---- /task ---
-
-Now, you are in the **Paint editor**.
-
---- task ---
-The **Ball** sprite has five different-coloured costumes. Click on the costume that you like the most.
-
-![screenshot](images/balls-costume-colour.png){:width="500px"}
-
-The **Ball** sprite on the Stage will switch to the costume that you have chosen.
---- /task ---
-
---- task ---
-Click on the **Fill** colour chooser and drag the **Brightness** to 0 to change the **Fill** colour to black.
-
-![screenshot](images/balls-fill-colour.png){:width="500px"}
-
---- /task ---
---- task ---
-
-Click on the **Circle** tool. 
-![screenshot](images/balls-circle-tool.png){:width="400px"}
+Now, you are in the **Code area**.
 
 --- /task ---
 
 --- task ---
-Draw two eyes. 
+From the `Events`{:class="block3events"} blocks menu, drag a `when this sprite clicked`{:class="block3events"} block into the Code area on the right-hand side:
 
-If you are using a mouse or trackpad, hold down the left button and drag until the circle is the size and shape that you want, then release the button.
+![screenshot](images/balls-when-this-sprite-clicked.png){:width="500px"}
 
-![screenshot](images/balls-eyes.png){:width="400px"}
-
-If you make a mistake, you can click on the **Undo** arrow.
-
-![screenshot](images/balls-undo.png){:width="400px"}
+```blocks3
+when this sprite clicked
+```
 
 --- /task ---
 
 --- task ---
-Use the **Circle** tool to draw a mouth.
+From the `Looks`{:class="block3looks"} blocks menu, drag a `set color effect to`{:class="block3looks"} block underneath the `when this sprite clicked`{:class="block3events"} block and make sure that they connect together:
 
-![screenshot](images/balls-mouth.png){:width="400px"}
+```blocks3
+when this sprite clicked
++set [color v] effect to (0)
+```
+
+Notice that the colour of each block tells you where you can find it. 
+
 --- /task ---
 
-**Tip:** To move the features that you have drawn, click on the **Select** (arrow) tool, then click on the features and drag them into position.
+--- task ---
+Click on `color`{:class="block3looks"} and change it to `whirl`{:class="block3looks"}.
 
-![screenshot](images/balls-move.png){:width="400px"}
+![screenshot](images/balls-color-whirl.png){:width="300px"}
+
+Your code should look like this:
+
+```blocks3
+when this sprite clicked
++set [whirl v] effect to (0)
+```
+
+--- /task ---
+
+--- task ---
+Change the value from `0` to `100`:
+
+```blocks3
+when this sprite clicked
++set [whirl v] effect to (100)
+```
+
+This will create lots of whirl!
+
+--- /task ---
+
+--- task ---
+Add a `play sound Pop until done`{:class="block3sound"} block:
+
+```blocks3
+when this sprite clicked
+set [whirl v] effect to (100)
++play sound [Pop v] until done
+```
+--- /task ---
+
+--- task ---
+Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}:
+
+![screenshot](images/balls-pop-boing.png){:width="300px"}
+
+```blocks3
+when this sprite clicked
+set [whirl v] effect to (100)
++play sound [Boing v] until done
+```
+--- /task ---
+
+--- task ---
+Click on your stress ball to see it whirl and then play the sound.
+
+![screenshot](images/balls-effect.png){:width="150px"}
+
+--- /task ---
+
+--- task ---
+Click on `Looks`{:class="block3looks"}, then click on the `clear graphic effects`{:class="block3looks"} block in the Blocks menu to remove the whirl effect. You might need to scroll down to find the block.
+
+![screenshot](images/balls-clear-graphic-effects.png){:width="300px"}
+--- /task ---
+
+--- task ---
+Now, add a `clear graphic effects`{:class="block3looks"} block to the bottom of your code so that the ball always returns to its original state after it has been squashed: 
+
+```blocks3
+when this sprite clicked
+set [whirl v] effect to (100)
+play sound [Boing v] until done
++ clear graphic effects
+```
+--- /task ---
+
+--- task ---
+Check carefully that your code looks exactly like this:
+
+```blocks3
+when this sprite clicked
+set [whirl v] effect to (100)
+play sound [Boing v] until done
+clear graphic effects
+```
+
+--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+**Laughing** and being **artistic** are good ways to get rid of stress.
+</p>
+
+--- task ---
+Click on your sprite to try it out. Try it again. Then, try it again!
+--- /task ---
 
 --- save ---

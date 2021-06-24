@@ -1,66 +1,79 @@
-## Shrink it
+## Choose your own sound effect
 
-Now, you will make the **Ball** sprite shrink as well as squash when you click on it.
+<div style="display: flex; flex-wrap: wrap">
+<div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
+Now, you will add a better sound effect to your stress ball.
+</div>
+<div>
+![](images/sound-effect.png){:width="300px"}
+</div>
+</div>
+
+--- no-print ---
 
 --- task ---
 
---- no-print ---
 Watch this short video, which shows what to do next.
 
-![screenshot](images/balls-step5.gif) 
+![screenshot](images/balls-step6.gif) 
+
+--- /task ---
 
 --- /no-print ---
---- /task ---
 
 Now, follow the instructions for each task below.
 
 --- task ---
-Drag a `change size by`{:class="block3looks"} block under your `when this sprite clicked`{:class="block3events"} block. A space will open up for the block and it will fit into place. 
+Click on the **Sounds** tab.
 
-![screenshot](images/balls-change-size-snap.png){:width="300px"}
+![screenshot](images/balls-sound-tab.png){:width="500px"}
+
+--- /task ---
+
+--- task ---
+Click on **Choose a Sound**.
+
+![screenshot](images/balls-choose-sound.png){:width="500px"}
+
+--- /task ---
+
+--- task ---
+Click on the **Wacky** category.
+
+![screenshot](images/balls-wacky.png){:width="500px"}
+
+--- /task ---
+
+--- task ---
+Click on the **Play** button for the **Squeaky Toy** sound to hear it. 
+
+![screenshot](images/balls-play-button.png){:width="500px"}
+
+Then, click on **Squeaky Toy** to add the sound to the **Ball** sprite. Now, you can use this sound in your code.
+
+--- /task ---
+
+--- task ---
+Click on the **Code** tab to return to the Code area. 
+
+Click on `Boing`{:class="block3sound"} in the `play sound Boing until done`{:class="block3sound"} block and change it to `Squeaky Toy`{:class="block3sound"}.
+
+![screenshot](images/balls-squeakytoy.png){:width="300px"}
 
 Your code should look like this:
 
 ```blocks3
 when this sprite clicked
-+change size by (10)
-set [whirl v] effect to (100)
-play sound [Boing v] until done
-clear graphic effects
-```
---- /task ---
-
---- task ---
-The **Ball** sprite needs to get smaller when you click on it, so change the number in the `change size by`{:class="block3looks"} block from `10` to `-50`. Choosing a negative number will make the **Ball** sprite shrink:
-
-```blocks3
-when this sprite clicked
-+change size by (-50)
-set [whirl v] effect to (100)
-play sound [Boing v] until done
-clear graphic effects
-```
---- /task ---
-
---- task ---
-Now, add a `set size to`{:class="block3looks"} block to the bottom of your code and set the size of the **Ball** sprite back to `200` (percent): 
-
-```blocks3
-when this sprite clicked
 change size by (-50)
 set [whirl v] effect to (100)
-play sound [Boing v] until done
++play sound [Squeaky Toy v] until done
 clear graphic effects
-+set size to (200)%
+set size to (200)%
 ```
-
 --- /task ---
 
 --- task ---
-Click on your stress ball to see if it is working correctly. 
-
+Click on your stress ball again to try out the new sound effect. 
 --- /task ---
-
-__Tip:__ You can delete a block by dragging it towards the Blocks menu on the left-hand side.
 
 --- save ---
