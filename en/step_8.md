@@ -45,7 +45,9 @@ __Tip:__ Make sure that you **Save** your project.
 
 --- task ---
 
-Inspire the [Raspberry Pi Foundation](https://projects.raspberrypi.org/en){:target="_blank"} community with your project!
+Inspire the [Raspberry Pi Foundation](https://projects.raspberrypi.org/en){:target="_blank"} community with your project! 
+
+[[[share-scratch]]]
 
 To submit your project to our new ['Stress ball — Community' Scratch studio](https://scratch.mit.edu/studios/29934771){:target="_blank"}, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
