@@ -8,13 +8,15 @@ copyedit: true
 last_tested: '2020-09-01'
 steps:
 - title: Introduction
-  completion: engaged
 - title: Draw a face
 - title: Squash it
+  completion:
+  - engaged
 - title: Shrink it
 - title: Choose your own sound effect
 - title: Insert a backdrop
 - title: Add another stress ball
-  completion: internal
+  completion:
+  - internal
 - title: Improve your stress balls
 - title: What next?
