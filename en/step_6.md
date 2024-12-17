@@ -2,23 +2,12 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you will add a colourful backdrop to your project. At the moment, the Stage is white and boring!
+Add a colourful backdrop to your project. At the moment, the Stage is white and boring!
 </div>
 <div>
 ![](images/with-backdrop.png){:width="300px"}
 </div>
 </div>
-
---- no-print ---
-
---- task ---
-Watch this short video, which shows what to do next.
-
-![screenshot](images/balls-backdrop.gif) 
-
---- /task ---
-
---- /no-print ---
 
 Now, follow the instructions for each task below.
 
@@ -37,6 +26,12 @@ Type in `neon` or scroll down until you see the **Neon Tunnel** backdrop, then c
 ![screenshot](images/balls-neon-backdrop.png){:width="500px"}
 
 --- /task ---
+
+--- no-print ---
+
+![screenshot](images/balls-backdrop.gif) 
+
+--- /no-print ---
 
 --- task ---
 
