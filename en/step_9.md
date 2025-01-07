@@ -1,6 +1,6 @@
 ## What can you do now?
 
-If you are following the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) projects, then try out the project [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden).
+If you are following the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"}  projects, then try out the project [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"} .
 
 --- print-only ---
 
@@ -16,4 +16,4 @@ If you are following the [Look after yourself](https://projects.raspberrypi.org/
 
 --- /no-print ---
 
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201){:target="_blank"} .

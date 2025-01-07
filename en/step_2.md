@@ -16,18 +16,6 @@ Add a face to the **Ball** sprite to make it more interesting.
 
 Open the [Stress ball starter project](https://scratch.mit.edu/projects/544664127/editor){:target="_blank"}. Scratch will open in another browser tab.
 
---- collapse ---
-
----
-title: Working offline
----
-
-Download the [Stress ball starter project](https://rpf.io/p/en/stress-ball-go){:target="_blank"} and open it using the offline editor.
-
-Visit [Getting started with Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more information on working offline.
-
---- /collapse ---
-
 --- /task ---
 
 --- task ---

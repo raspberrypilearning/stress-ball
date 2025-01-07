@@ -1,9 +1,8 @@
-## Introduction
-
+### What you will make
 Use Scratch to create a stress ball app that you can click to squash!
 
 --- no-print ---
---- task ---
+
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
@@ -15,7 +14,7 @@ What happens if you click on the stress ball a few times quickly?
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/401316899/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
---- /task ---
+
 --- /no-print ---
 
 --- print-only ---
