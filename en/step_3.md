@@ -9,19 +9,6 @@ Now, you can add code to make the stress ball look like it is being squashed whe
 </div>
 </div>
 
---- no-print ---
-
---- task ---
-
-Watch this short video, which shows what to do next.
-
-![screenshot](images/balls-step4.gif) 
-
---- /task ---
-
---- /no-print ---
-
-Now, follow the instructions for each task below.
 
 --- task ---
 
@@ -69,7 +56,11 @@ when this sprite clicked
 ```
 
 --- /task ---
+--- no-print ---
 
+![screenshot](images/balls-step4.gif) 
+
+--- /no-print ---
 --- task ---
 Change the value from `0` to `100`:
 
@@ -94,8 +85,6 @@ set [whirl v] effect to (100)
 
 --- task ---
 Click on `Pop`{:class="block3sound"} and change it to `Boing`{:class="block3sound"}:
-
-![screenshot](images/balls-pop-boing.png){:width="300px"}
 
 ```blocks3
 when this sprite clicked

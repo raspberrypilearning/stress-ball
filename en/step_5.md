@@ -2,26 +2,13 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Now, you will add a better sound effect to your stress ball.
+Add a better sound effect to your stress ball.
 </div>
 <div>
 ![](images/sound-effect.png){:width="300px"}
 </div>
 </div>
 
---- no-print ---
-
---- task ---
-
-Watch this short video, which shows what to do next.
-
-![screenshot](images/balls-step6.gif) 
-
---- /task ---
-
---- /no-print ---
-
-Now, follow the instructions for each task below.
 
 --- task ---
 Click on the **Sounds** tab.
@@ -52,6 +39,12 @@ Click on the **Play** button for the **Squeaky Toy** sound to hear it.
 Then, click on **Squeaky Toy** to add the sound to the **Ball** sprite. Now, you can use this sound in your code.
 
 --- /task ---
+
+--- no-print ---
+
+![screenshot](images/balls-step6.gif) 
+
+--- /no-print ---
 
 --- task ---
 Click on the **Code** tab to return to the Code area. 

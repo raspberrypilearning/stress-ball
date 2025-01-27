@@ -2,9 +2,10 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In Scratch, the picture used for a sprite is called a **costume**. 
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**. The picture used for a sprite is called a **costume**. 
 
-In this step, you will add a face to the **Ball** sprite to make it more interesting. 
+Add a face to the **Ball** sprite to make it more interesting. 
+
 </div>
 <div>
 ![](images/draw-a-face.png){:width="300px"}
@@ -15,33 +16,7 @@ In this step, you will add a face to the **Ball** sprite to make it more interes
 
 Open the [Stress ball starter project](https://scratch.mit.edu/projects/544664127/editor){:target="_blank"}. Scratch will open in another browser tab.
 
---- collapse ---
-
----
-title: Working offline
----
-
-Download the [Stress ball starter project](https://rpf.io/p/en/stress-ball-go){:target="_blank"} and open it using the offline editor.
-
-Visit [Getting started with Scratch](https://projects.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"} for more information on working offline.
-
---- /collapse ---
-
 --- /task ---
-
---- task ---
-
---- no-print ---
-
-Watch this short video, which shows what to do next.
-
-![screenshot](images/balls-step3.gif) 
-
---- /no-print ---
-
---- /task ---
-
-Now, follow the instructions for each task below.
 
 --- task ---
 
@@ -67,6 +42,13 @@ Click on the **Fill** colour chooser and drag the **Brightness** to 0 to change 
 ![screenshot](images/balls-fill-colour.png){:width="500px"}
 
 --- /task ---
+
+--- no-print ---
+
+![screenshot](images/balls-step3.gif) 
+
+--- /no-print ---
+
 --- task ---
 
 Click on the **Circle** tool. 
@@ -103,11 +85,9 @@ If you are signed in to your Scratch account, type the title of your project int
 
 ![name](images/balls-name-annotated.png)
 
-Tip: Give your projects helpful names so that you can easily find them when you have lots of projects.
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
 
 Next, click on File, and then on Save now to save your project.
-
-If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
 ![screenshot](images/balls-save.png)
 

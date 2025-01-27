@@ -1,11 +1,6 @@
-## What next?
+## What can you do now?
 
-In this project, you have:
-+ Used the tools in the Paint editor to create your own stress ball sprite
-+ Added a `sound`{:class="block3sound"} to your stress ball that is played when clicked
-+ Added `graphic effects`{:class="block3looks"} to your stress ball to squash it
-
-If you are following the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself) projects, then try out the project [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden).
+If you are following the [Look after yourself](https://projects.raspberrypi.org/en/pathways/look-after-yourself){:target="_blank"}  projects, then try out the project [Butterfly garden](https://projects.raspberrypi.org/en/projects/butterfly-garden){:target="_blank"} .
 
 --- print-only ---
 
@@ -21,6 +16,4 @@ If you are following the [Look after yourself](https://projects.raspberrypi.org/
 
 --- /no-print ---
 
-Did you enjoy the project? Have you spotted a mistake? Please click the **Send feedback** button below and let us know!
-
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).
+If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201){:target="_blank"} .

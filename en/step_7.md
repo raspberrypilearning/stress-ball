@@ -57,7 +57,7 @@ Click on the **Costumes** tab to choose a colour for your new stress ball.
 
 Use the **Fill** , **Circle** and **Select** tools to draw a face on your new stress ball.
 
-If you need a reminder, look back at the [Draw a face](https://projects.raspberrypi.org/en/projects/stress-ball/2) step.
+If you need a reminder, look back at the [Draw a face](https://projects.raspberrypi.org/en/projects/stress-ball/2){:target="_blank"} step.
 
 --- /task ---
 
@@ -65,7 +65,7 @@ If you need a reminder, look back at the [Draw a face](https://projects.raspberr
 
 Click on the **Sounds** tab to add a sound to your new stress ball.
 
-If you need a reminder, look back at the [Choose your own sound effect](https://projects.raspberrypi.org/en/projects/stress-ball/5) step.
+If you need a reminder, look back at the [Choose your own sound effect](https://projects.raspberrypi.org/en/projects/stress-ball/5){:target="_blank"} step.
 
 --- /task ---
 
