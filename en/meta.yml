@@ -17,9 +17,10 @@ steps:
 - title: Choose your own sound effect
 - title: Insert a backdrop
 - title: Add another stress ball
-- title: Challenge
   completion:
   - internal
+- title: Challenge
+  challenge: true
   completion:
   - external
 
